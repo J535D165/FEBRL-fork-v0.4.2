@@ -1,0 +1,293 @@
+# =============================================================================
+# county.tbl - Lookup-table for country names
+#
+# Source: http://www.din.de/gremien/nas/nabd/iso3166ma/codlstp1/en_listp1.html
+#
+# Last update: 01/08/2002, Peter Christen
+# =============================================================================
+
+tag=<CR>  # Tag for country words
+
+                                  afghanistan : 
+                                      albania : 
+                                      algeria : 
+                               american samoa : 
+                                      andorra : 
+                                       angola : 
+                                     anguilla : 
+                                   antarctica : 
+                          antigua and barbuda : antigua barbuda
+                                    argentina : 
+                                      armenia : 
+                                        aruba : 
+                                    australia : 
+                                      austria : 
+                                   azerbaijan : 
+
+                                      bahamas : 
+                                      bahrain : 
+                                   bangladesh : 
+                                     barbados : 
+                                      belarus : 
+                                      belgium : 
+                                       belize : 
+                                        benin : 
+                                      bermuda : 
+                                       bhutan : 
+                                      bolivia : 
+                       bosnia and herzegovina : bosnia herzegovina,
+                                                bosnia, herzegovina
+                                     botswana : 
+                                bouvet island : bouvet islands
+                                       brazil : 
+               british indian ocean territory : 
+                            brunei darussalam : 
+                                     bulgaria : 
+                                 burkina faso : 
+                                      burundi : 
+       
+                                     cambodia : 
+                                     cameroon : 
+                                       canada : 
+                                   cape verde : 
+                               cayman islands : cayman island
+                     central african republic : central africa republic
+                                         chad : 
+                                        chile : 
+                                        china : 
+                             christmas island : cx, christmas islands
+                                cocos islands : cocos island, keeling,
+                                                keeling island,
+                                                keeling islands
+                                     colombia : 
+                                      comoros : 
+                                        congo : 
+            the democratic republic the congo : democratic republic congo,
+                                                democratic republic the congo,
+                                                zaire
+                                 cook islands : cook island
+                                   costa rica : 
+                                 cote divoire : cote d ivoire 
+                                      croatia : 
+                                         cuba : 
+                                       cyprus : 
+                               czech republic : czech
+       
+                                      denmark : 
+                                     djibouti : 
+                                     dominica : 
+                           dominican republic : 
+
+                                   east timor : 
+                                      ecuador : 
+                                        egypt : 
+                                  el salvador : 
+                                      england : 
+                            equatorial guinea : 
+                                      eritrea : 
+                                      estonia : 
+                                     ethiopia : 
+
+                             falkland islands : falkland island, malvinas
+                                faroe islands : faroe island
+                                         fiji : 
+                                      finland : 
+                                       france : 
+                                french guiana : 
+                             french polynesia : 
+                  french southern territories : french south territories, 
+                                                french southern territory,
+                                                french south territory
+
+                                        gabon : 
+                                       gambia : 
+                                      georgia : 
+                                      germany : 
+                                        ghana : 
+                                    gibraltar : 
+                                       greece : 
+                                      grenada : 
+                                   guadeloupe : 
+                                         guam : 
+                                    guatemala : 
+                                       guinea : 
+                                guinea bissau : 
+                                       guyana : 
+
+                                        haiti : 
+            heard island and mcdonald islands : 
+                                     honduras : 
+                                    hong kong : 
+                                      hungary : 
+
+                                      iceland : 
+                                        india : 
+                                    indonesia : 
+                                         iran : islamic republic iran
+                                         iraq : 
+                                      ireland : 
+                                       israel : 
+                                        italy : 
+
+                                      jamaica : 
+                                        japan : 
+                                       jordan : 
+
+                                    kazakstan : 
+                                        kenya : 
+                                     kiribati : 
+                       peoples republic korea : 
+                                             democratic peoples republic korea
+                               republic korea : korea
+                                       kuwait : 
+                                   kyrgyzstan : 
+
+                                          lao : lao peoples democratic republic
+                                       latvia : 
+                                      lebanon : 
+                                      lesotho : 
+                                      liberia : 
+                                        libya : libyan arab jamahiriya
+                                liechtenstein : 
+                                    lithuania : 
+                                   luxembourg : 
+       
+                                        macau : 
+                                    macedonia : former yugoslav republic macedonia,
+                                         the former yugoslav republic macedonia
+                                   madagascar : 
+                                       malawi : 
+                                     malaysia : 
+                                     maldives : 
+                                         mali : 
+                                        malta : 
+                             marshall islands : marshall island
+                                   martinique : 
+                                   mauritania : 
+                                    mauritius : 
+                                      mayotte : 
+                                       mexico : 
+                                   micronesia : federated states micronesia
+                                      moldova : republic moldova
+                                       monaco : 
+                                     mongolia : 
+                                   montserrat : 
+                                      morocco : 
+                                   mozambique : 
+                                      myanmar : 
+
+                                      namibia : 
+                                        nauru : 
+                                        nepal : 
+                                  netherlands : 
+                         netherlands antilles : 
+                                new caledonia : 
+                                  new zealand : 
+                                    nicaragua : 
+                                        niger : 
+                                      nigeria : 
+                                         niue : 
+                               norfolk island : 
+                     northern mariana islands : mariana islands
+                                       norway : 
+
+                                         oman : 
+
+                                     pakistan : 
+                                        palau : 
+                                    palestine : palestinia,
+                                                palestinian territory,
+                                                occupied palestinian territory,
+                                       panama : 
+                             papua new guinea : 
+                                     paraguay : 
+                                         peru : 
+                                  philippines : 
+                                     pitcairn : 
+                                       poland : 
+                                     portugal : 
+                                  puerto rico : 
+
+                                        qatar : 
+
+                                      reunion : 
+                                      romania : 
+                                       russia : russian federation
+                                       rwanda : 
+
+#                                 saint helena : 
+                        saint kitts and nevis : saint kitts nevis
+                                  saint lucia : 
+                    saint pierre and miquelon : saint pierre miquelon
+#             saint vincent and the grenadines : saint vincent the grenadines,
+#                                                saint vincent grenadines,
+#                                                grenadines
+                                        samoa : 
+                                   san marino : 
+                        sao tome and principe : sao tome principe
+                                 saudi arabia : 
+                                     scotland : 
+                                      senegal : 
+                                   seychelles : 
+                                 sierra leone : 
+                                    singapore : 
+                                     slovakia : 
+                                     slovenia : 
+                              solomon islands : solomon island
+                                      somalia : 
+                                 south africa : 
+ south georgia and the south sandwich islands : 
+                                        spain : 
+                                    sri lanka : 
+                                        sudan : 
+                                     suriname : 
+                       svalbard and jan mayen : svalbard jan mayen 
+                                    swaziland : 
+                                       sweden : 
+                                  switzerland : 
+                                        syria : syrian arab republic
+
+                                       taiwan : taiwan province china,
+                                                province china taiwan,
+                                   tajikistan : 
+                                     tanzania : united republic tanzania
+                                     thailand : 
+                                         togo : 
+                                      tokelau : 
+                                        tonga : 
+                          trinidad and tobago : trinidad tobago,
+                                                tobago and trinidad,
+                                                tobago trinidad
+                                      tunisia : 
+                                       turkey : 
+                                 turkmenistan : 
+                     turks and caicos islands : turks caicos islands,
+                                                turks and caicos island,
+                                                turks caicos island
+                                       tuvalu : 
+
+                                       uganda : 
+                                      ukraine : 
+                         united arab emirates : 
+                               united kingdom : great britain
+                                united states : usa,us, united states america
+         united states minor outlying islands : united states outlying islands
+                                      uruguay : 
+                                   uzbekistan : 
+       
+                                      vanuatu : 
+                                      vatican : vatican city state,
+                                                holy city, holy see
+                                    venezuela : 
+                                      vietnam : viet nam
+                       british virgin islands : 
+                            us virgin islands : virgin islands
+
+                            wallis and futuna : wallis futuna
+                               western sahara : 
+
+                                        yemen : 
+                                   yugoslavia : 
+
+                                       zambia : 
+                                     zimbabwe : 

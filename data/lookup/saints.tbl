@@ -1,0 +1,373 @@
+# =============================================================================
+# saints.tbl - Lookup-table for saint names and words
+#
+# Source: - NSW Health Department pattern and classification files
+#
+# Last update: 02/09/2002, Peter Christen
+# =============================================================================
+
+tag=<ST>  # Tag for saint words
+
+         brother : 
+          father : 
+            holy : 
+          sister : 
+          mother : 
+           saint : 
+
+    saint adalbert : st adelbert
+   saint adalberts : st adalberts
+    saint adelaide : st adelaide
+   saint adelaides : st adelaides
+   saint adeodatus : st adeodatus, saint adeodatuss, st adeodatuss
+      saint adrian : st adrian
+     saint adrians : st adrians
+    saint agapitus : st agapitus, saint agapituss, st agapituss
+      saint agatho : st agatho
+     saint agathos : st agathos
+       saint agnes : st agnes, saint agness, st agness
+       saint aidan : st aidan
+      saint aidans : st aidans
+       saint alban : st alban
+      saint albans : st albans
+      saint albert : st albert
+     saint alberts : st alberts
+   saint alexander : st alexander
+  saint alexanders : st alexanders
+    saint aloysius : st aloysius, saint aloysiuss, st aloysiuss
+     saint alphege : st alphege
+    saint alpheges : st alpheges
+     saint ambrose : st ambrose
+    saint ambroses : st ambroses
+   saint anacletus : st anacletus, saint anacletuss, st anacletuss
+  saint anastasius : st anastasius, saint anastasiuss, st anastasiuss
+       saint andre : st andre
+      saint andres : st andres
+      saint andrew : st andrew, saint andrw, st andrw
+     saint andrews : st andrews, saint andrws, st andrws
+    saint anicetus : st anicetus, saint anicetuss, st anicetuss
+        saint anne : st anne, saint ann, st ann
+       saint annes : st annes, saint anns, st anns
+      saint anselm : st anselm
+     saint anselms : st anselms
+    saint antheros : st antheros, saint antheross, st antheross
+     saint anthony : st anthony, saint antonio, st antonio
+    saint anthonys : st anthonys, saint antonios, st antonios
+      saint arnaud : st arnaud
+     saint arnauds : st arnauds
+  saint athanasius : st athanasius, saint athanasiuss, st athanasiuss
+       saint aubin : st aubin
+      saint aubins : st aubins
+       saint aubyn : st aubyn
+      saint aubyns : st aubyns
+   saint augustine : st augustine
+  saint augustines : st augustines
+
+    saint barnabas : st barnabas, saint barnabass, st barnabass
+ saint bartholomew : st bartholomew
+saint bartholomews : st bartholomews
+       saint basil : st basil, saint bazil, st bazil
+      saint basils : st basils, saint bazils, st bazils
+        saint bede : st bede
+       saint bedes : st bedes
+        saint bees : st bees, saint beess, st beess
+    saint benedict : st benedict
+   saint benedicts : st benedicts
+     saint bernard : st bernard
+    saint bernards : st bernards
+    saint boniface : st boniface
+   saint bonifaces : st bonifaces
+      saint brigid : st brigid, saint brigit, st brigit
+     saint brigids : st brigids, saint brigits, st brigits
+       saint bruno : st bruno
+      saint brunos : st brunos
+
+       saint caius : st caius, saint caiuss, st caiuss
+   saint callistus : st callistus, saint callistuss, st callistuss
+     saint casimir : st casimir
+    saint casimirs : st casimirs
+   saint catherine : st catherine, saint cathereine, st cathereine
+  saint catherines : st catherines, saint cathereines, st cathereines
+   saint celestine : st celestine
+  saint celestines : st celestines
+     saint charles : st charles, saint charless, st charless
+       saint clair : st clair
+      saint clairs : st clairs
+      saint claire : st claire
+     saint claires : st claires
+       saint clare : st clare, st clara, saint clara
+      saint clares : st clares
+     saint clement : st clement
+    saint clements : st clements
+     saint columba : st columba
+    saint columbas : st columbas
+    saint columban : st columban
+   saint columbans : st columbans
+  saint columbanus : st columbanus, saint columbanuss, st columbanuss
+   saint cornelius : st cornelius, saint corneliuss, st corneliuss
+   saint cunigunde : st cunigunde
+  saint cunigundes : st cunigundes
+       saint cyril : st cyril
+      saint cyrils : st cyrils
+
+     saint damasus : st damasus, saint damasuss, st damasuss
+       saint david : st david
+      saint davids : st davids
+       saint denis : st denis, saint deniss, st deniss
+   saint dionysius : st dionysius, saint dionysiuss, st dionysiuss
+     saint dominic : st dominic
+    saint dominics : st dominics
+    saint dorothea : st dorothea, saint dorothy, st dorothy
+   saint dorotheas : st dorotheas, saint dorothys, st dorothys
+     saint dunstan : st dunstan
+    saint dunstans : st dunstans
+
+       saint edith : st edith
+      saint ediths : st ediths
+      saint edward : st edward
+     saint edwards : st edwards
+ saint eleutherius : st eleutherius, saint eleutheriuss, st eleutheriuss
+   saint elizabeth : st elizabeth, saint elisabeth, st elisabeth
+  saint elizabeths : st elizabeths, saint elisabeths, st elisabeths
+        saint elmo : st elmo
+       saint elmos : st elmos
+      saint emelia : st emelia
+     saint emelias : st emelias
+     saint ephraim : st ephraim
+    saint ephraims : st ephraims
+       saint ethel : st ethel
+      saint ethels : st ethels
+   saint ethelbert : st ethelbert
+  saint ethelberts : st ethelberts
+      saint eugene : st eugene
+     saint eugenes : st eugenes
+    saint eusebius : st eusebius, saint eusebiuss, st eusebiuss
+   saint eutychian : st eutychian
+  saint eutychians : st eutychians
+   saint evaristus : st evaristus, saint evaristuss, st evaristuss
+     saint ezekiel : st ezekiel, saint ezekial, st ezekial
+    saint ezekiels : st ezekiels, saint ezekials, st ezekials
+
+      saint fabian : st fabian
+     saint fabians : st fabians
+       saint felix : st felix
+      saint felixs : st felixs
+     saint fergius : st fergius, saint fergiuss, st fergiuss
+      saint fillan : st fillan
+     saint fillans : st fillans
+     saint francis : st francis, saint franciss, st franciss
+
+        saint gall : st gall
+       saint galls : st galls
+    saint gelasius : st gelasius, saint gelasiuss, st gelasiuss
+      saint george : st george
+     saint georges : st georges
+     saint germain : st germain
+    saint germains : st germains
+     saint gregory : st gregory
+    saint gregorys : st gregorys
+    saint gresford : st gresford
+   saint gresfords : st gresfords
+
+      saint hedwig : st hedwig, saint wedwig, st wedwig, saint hedweg,
+                     st hedweg
+     saint hedwigs : st hedwigs, saint wedwigs, st wedwigs, saint hedwegs,
+                     st hedwegs
+       saint helen : st helen
+      saint helens : st helens
+      saint helena : st helena
+     saint helenas : st helenas
+      saint helier : st helier
+     saint heliers : st heliers
+       saint henry : st henry
+      saint henrys : st henrys
+     saint herbert : st herbert
+    saint herberts : st herberts
+      saint herman : st herman
+     saint hermans : st hermans
+     saint hilaire : st hilaire
+    saint hilaires : st hilaires
+    saint hilarius : st hilarius, saint hilariuss, st hilariuss
+  saint hildebrand : st hildebrand
+ saint hildebrands : st hildebrands
+     saint hillier : st hillier
+    saint hilliers : st hilliers
+      saint hobert : st hobert
+     saint hoberts : st hoberts
+   saint hormisdas : st hormisdas,  saint hormisdass, st hormisdass
+      saint hubert : st hubert
+     saint huberts : st huberts
+     saint hyginus : st hyginus, saint hyginuss, st hyginuss
+
+    saint ignatius : st ignatius, saint ignatiuss, st ignatiuss
+    saint irenaeus : st irenaeus, saint irenaeuss, st irenaeuss
+     saint isidore : st isidore
+    saint isidores : st isidores
+        saint ives : st ives, st yves, saint yves, saint ivess, st ivess
+
+     saint jadwiga : st jadwiga
+    saint jadwigas : st jadwigas
+       saint james : st james, saint jamess, st jamess
+      saint jerome : st jerome
+     saint jeromes : st jeromes
+     saint joachim : st joachim, saint joathim, st joathim
+    saint joachims : st joachims, saint joathims, st joathims
+        saint joan : st joan
+       saint joans : st joans
+        saint john : st john
+       saint johns : st johns
+    saint josaphat : st josaphat
+   saint josaphats : st josaphats
+      saint joseph : st joseph
+     saint josephs : st josephs
+        saint jude : st jude
+       saint judes : st judes
+      saint julius : st julius, saint juliuss, st juliuss
+
+       saint kilda : st kilda
+      saint kildas : st kildas
+       saint kitts : st kitts, saint kittss, st kittss
+
+   saint laurieton : st laurieton
+    saint lawrence : st lawrence, saint laurence, st laurence
+   saint lawrences : st lawrences, saint laurences, st laurences
+         saint leo : st leo
+        saint leos : st leos
+     saint leonard : st leonard
+    saint leonards : st leonards
+       saint linus : st linus, saint linuss, st linuss
+       saint lloyd : st lloyd, st lloyds, saint lloyds
+       saint louis : st louis, saint louiss, st louiss
+       saint lucia : st lucia
+      saint lucias : st lucias
+      saint lucius : st lucius, saint luciuss, st luciuss
+        saint luke : st luke
+       saint lukes : st lukes
+
+     saint macrina : st macrina
+    saint macrinas : st macrinas
+ saint marcellinus : st marcellinus, saint marcellinuss, st marcellinuss
+   saint marcellus : st marcellus, saint marcelluss, st marcelluss
+      saint marcus : st marcus, saint marcuss, st marcuss
+    saint margaret : st margaret
+   saint margarets : st margarets
+   saint margarita : st margarita
+  saint margaritas : st margaritas
+        saint mark : st mark
+       saint marks : st marks
+      saint martin : st martin
+     saint martins : st martins
+       saint maria : st maria
+      saint marias : st marias
+      saint martha : st martha
+     saint marthas : st marthas
+        saint mary : st mary
+       saint marys : st marys
+     saint matthew : st matthew
+    saint matthews : st matthews
+    saint matthias : st matthias, saint matthiass, st matthiass
+     saint maurice : st maurice
+    saint maurices : st maurices
+ saint maximillian : st maximillian
+saint maximillians : st maximillians
+        saint meot : st meot
+       saint meots : st meots
+     saint michael : st michael
+    saint michaels : st michaels
+   saint miltiades : st miltiades, saint miltiadess, st miltiadess
+      saint morris : st morris, saint morriss, st morriss
+
+    saint nicholas : st nicholas, saint nicholass, st nicholass
+      saint ninian : st ninian
+     saint ninians : st ninians
+
+     saint paschal : st paschal
+    saint paschals : st paschals
+     saint patrick : st patrick
+    saint patricks : st patricks
+        saint paul : st paul
+       saint pauls : st pauls
+       saint paule : st paule
+      saint paules : st paules
+    saint paulinus : st paulinus, saint paulinuss, st paulinuss
+    saint perpetua : st perpetua
+   saint perpetuas : st perpetuas
+       saint peter : st peter
+      saint peters : st peters
+      saint petrox : st petrox
+      saint philip : st philip
+     saint philips : st philips
+   saint philomena : st philomena
+  saint philomenas : st philomenas
+       saint piran : st piran
+      saint pirans : st pirans
+        saint pius : st pius, saint piuss, st piuss
+    saint polycarp : st polycarp
+   saint polycarps : st polycarps
+     saint pontain : st pontain
+    saint pontains : st pontains
+
+     saint raphael : st raphael
+    saint raphaels : st raphaels
+     saint romuald : st romuald
+    saint romualds : st romualds
+     saint rosalia : st rosalia
+    saint rosalias : st rosalias
+
+   saint sebastian : st sebastian, saint sebastiaan, st sebastiaan
+  saint sebastians : st sebastians, saint sebastiaans, st sebastiaans
+ saint scholastica : st scholastica
+saint scholasticas : st scholasticas
+     saint sergius : st sergius, saint sergiuss, st sergiuss
+   saint silverius : st silverius, saint silveriuss, st silveriuss
+      saint simeon : st simeon
+     saint simeons : st simeons
+       saint simon : st simon
+      saint simons : st simons
+  saint simplicius : st simplicius, saint simpliciuss, st simpliciuss
+    saint siricius : st siricius, saint siriciuss, st siriciuss
+      saint sixtus : st sixtus, saint sixtuss, st sixtuss
+       saint soter : st soter
+      saint soters : st soters
+     saint stephen : st stephen, saint steven, st steven
+    saint stephens : st stephens, saint stevens, st stevens
+    saint sturgess : st sturgess, saint sturgesss, st sturgesss
+   saint sylvester : st sylvester
+  saint sylvesters : st sylvesters
+   saint symmachus : st symmachus, saint symmachuss, st symmachuss
+
+ saint telesphorus : st telesphorus, saint telesphoruss, st telesphoruss
+     saint teralba : st teralba
+      saint teresa : st teresa
+     saint teresas : st teresas
+    saint theodore : st theodore
+   saint theodores : st theodores
+    saint theophan : st theophan
+   saint theophans : st theophans
+     saint therese : st therese
+    saint thereses : st thereses
+      saint thomas : st thomas, saint thomass, st thomass
+      saint tikhon : st tikhon
+     saint tikhons : st tikhons
+     saint timothy : st timothy
+    saint timothys : st timothys
+
+      saint ulrich : st ulrich
+     saint ulrichs : st ulrichs
+       saint urban : st urban
+      saint urbans : st urbans
+
+    saint veronica : st veronica
+   saint veronicas : st veronicas
+     saint vincent : st vicent, st vincent
+    saint vincents : st vicents, st vincents
+      saint victor : st victor
+     saint victors : st victors
+    saint vitalian : st vitalian
+   saint vitalians : st vitalians
+    saint vladimir : st vladimir
+   saint vladimirs : st vladimirs
+
+   saint zacharias : st zacharias, saint zachariass, st zachariass
+  saint zephyrinus : st zephyrinus, saint zephyrinuss, st zephyrinuss
+     saint zosimus : st zosimus

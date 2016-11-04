@@ -1,0 +1,931 @@
+# =============================================================================
+# suburb-misspell.tbl - Lookup-table for suburb misspellings used for the
+#                       database generator
+#
+# - The word left of the colon is the correct spelling, right of the colon is
+#   a list of one or more (comma separated) misspellings
+#
+# Last update: 17/11/2004, Peter Christen
+# =============================================================================
+
+# Suburb names (Australian Captial Territory)
+
+                           acton : acten, action
+  australian national university : anu
+                       macarthur : mcarthur, mc arthur, mac arthur
+                       macgregor : mcgregor, mc gregor, mac gregor
+                       macquarie : mcquarie, mc quarie, mac quarie
+                         oconnor : o connor
+                         omalley : o malley
+          university of canberra : uc
+
+# Suburb names (New South Wales)
+
+                             albury : alubury
+                          aldavilla : aldaville
+                         alexandria : alezandria
+                      alfords point : alfonds point, alford point,
+                                      alforts point, alfrods point
+                        alstonville : alstonvile
+                          ambarvale : ambaravle
+                            arcadia : arcardia
+                            ardglen : ardglan
+                           armidale : armdiale, armiale
+                          arncliffe : arnchffe, arncliff, arnclifffe
+                           artarmon : artamon
+                           ashcroft : ashcrofrt
+                            asquith : asqith
+                          austinmer : austimer, austimere, austinmere
+          australian defence forces : adf
+                             avalon : avaoln
+
+                     badgerys creek : badgery creek
+                           balcolyn : balcolin
+                          balgowlah : balgolah, balgowah, balgowalah, balgowla
+                             bangor : bangtor
+                        banksmeadow : banksmeadows, banks meadow, banks meadow
+                          bankstown : banktsown, bansktown
+                       batemans bay : bateman bay
+                           bathurst : bathurs, bathust, bathuyrst
+                     baulkham hills : bauklham hills, baulham hills,
+                                      baulkahm hills, baulkam hills,
+                                      baulkhams hills, baulkhan hills,
+                                      baulklham
+                       bawley point : bowley point, bawly point
+                       beaconsfield : beaconfield
+                        bedgerebong : bedgerabong
+                           belfield : belfied
+                      belimbla park : belima park, belimba park
+                      bellevue hill : belevue hill, bllevue hill
+                      bellimbopinni : bellimboppinni
+                            belmont : belmonth
+                            belrose : belose
+                            bemboka : bemoka
+                    bendick murrell : bendick murren
+                          bensville : bensbille
+                             berala : beralla
+                           berkeley : berkelly, berkely, berkerley, berkley
+                            berowra : berrowra, berwora, berwowra
+                              berry : bery
+                      beverley park : bevely park, bevelly park,
+                                      beverly park, beverlly park
+                      beverly hills : beverley hills, beverly hill
+                            bidwill : bidwell
+                           bilambil : bilabil
+                            bilgola : bilgolah, bilgowla, bilgowlah, bilogola
+                             bilpin : bilp
+                            bindera : binderra
+                            birrong : birong
+                         black hill : blackhill
+                     blackalls park : blackall park, blackhalls park
+                        blacksmiths : blacksmith
+                          blacktown : blaacktown, blabktown, blacktwon,
+                                      blactown, blacttown
+                          blackwall : blackwell
+                           blaxland : blaxand
+                           bolwarra : bolwara
+                          bomaderry : bomadery, bombaderry, bomdaderry,
+                                      bommaderry
+                              bondi : boni
+                       bonnells bay : bonnell bay, bonnelle bay, bonnels bay
+                         bonnet bay : bonnett bay, bonnrt bay
+                        bonny hills : bony hills, bonny hill, bony hill
+                          bonnyrigg : bonnrigg, bonntrigg, bonnyrig,
+                                      bonnyriggg, bonnyring
+                           booragul : boorgaul, boorgul
+                            bootawa : bootawah, bootoowaa
+                          borambula : borambola, boramboa
+                           borenore : bornenore
+                       bossley park : bosley park
+                         bow bowing : bow bowine, bow bowring
+                          bowenfels : bowensfels
+                           boydtown : boyd town, boystown
+                           bradbury : braadbury, brabury
+                         brewarrina : brewarraina
+                  brighton le sands : brightonlesands
+                       brightwaters : brightwater
+                          bringelly : bringjelly
+                        broadmeadow : broadmeadows, broad meadow, broad meadows
+                       brocklehurst : brockelhurst
+                           brooklyn : brokklyn
+                    brunswick heads : brunswick head
+                         buff point : buffs point
+                         bulahdelah : buladelah
+                              bulli : buli
+                        busbys flat : busbys flats
+                            buttaba : buttabar, buttabi
+
+                         cabramatta : cabramata, cabramtta, cabrmatta
+                            califat : calafat
+                          callaghan : callaghn
+                        callala bay : calalla bay, callaha bay
+                      callala beach : calalla beach, callaha beach
+                         cambewarra : cambbewarra, cambewara, camewarra
+                             camden : cambden, cambletown
+                        camden head : camden haven
+                           cammeray : cammaray, cammbray
+                       campbelltown : cambelltown, campbelltwon, campbeltown,
+                                      campbelttown, campelltown
+                            campsie : cammpsie, campise
+                         canada bay : cananda bay
+                     canley heights : canely heights, canly heights
+                        canley vale : canely vale, canly vale
+                         canowindra : canowwindra, canwindra
+                          caragabal : caragabah
+                            cardiff : cardif
+                          caringbah : carinbah, caringbh, caringhabh
+                        carlingford : carlilngford, carlingfrod, carlingord,
+                                      carlingrford, carllingford, carllingfrod
+                            carroll : carrol
+                   carrs peninsular : carrs peninsula
+                   cartwrights hill : cartwright hill
+                        castle cove : castel cove
+                       castle doyle : castel doyle
+                        castle hill : castel hill
+                        castle rock : castel rock
+                         castlecrag : castelcrag, castkecrag, castlecraig,
+                                      castlegrag
+                        castlereagh : castlreagh
+                           cessnock : cesnock, cessock
+                            charbon : chardon
+                        charlestown : charelstown, charlestownb, charletown
+                         charmhaven : charmaven
+                          chatswood : chatwood
+                   cheesemans creek : cheeseman creek
+                        cherrybrook : cherrbrook, cherrybrok, cherrybrokk,
+                                      cherybrook
+                       chester hill : cherter hill
+                            chifley : chiefley, chiefly, chifly
+                    chilcotts creek : chillcotts creek, chillcots creek
+                    chilcotts grass : chillcotts grass, chillcots grass
+                        chippendale : chippingdale
+                    chipping norton : chipping noton
+                    chittaway point : chitaway point
+                          clandulla : clandalla, clanudlla
+                  claremont meadows : claremont meadow, claremnont meadows,
+                                      claremount meadows, clarmont meadows
+                       clemton park : clempton park
+                         cliftleigh : clifleigh
+                           clontarf : clontrf
+                           clovelly : clovellay, clovelley, clovellyy
+                         clydesdale : clydsdale
+                          coalcliff : coalcliffe
+                      coffs harbour : coffss harbour
+                coffs harbour jetty : coffss harbour jetty
+                coffs harbour plaza : coffss harbour plaza
+                        coleambally : colleambally
+                           collaroy : colaroy, collaory, collary
+                        collombatti : collimbatti
+                         condobolin : condobilin, condoblin, conodbolin
+                           coniston : conistone
+                     connells point : connell point, connels point
+                             coogee : cooge
+                        coolangatta : coolangata
+                      coonabarabran : coonabarbran, coonabarrabran,
+                                      coonabrabran
+                         cooranbong : coorangbong, coorangong, cooronbong
+                             coraki : corkai
+                            coramba : coranba
+                      corindi beach : corindi
+                             corowa : corwoa
+                          couridjah : couridjahp
+                    coutts crossing : couttes crossing
+                           cremorne : cremorme, cremporne
+                           cronulla : cronnula, cronullaa, cronullla
+                            croydon : croycon, croyden, croyon
+                           culcairn : culcarin
+                            cumnock : cummock
+                       currans hill : curans hill, currens hill, currins hill
+                         currawarna : currarwarna
+
+                         daceyville : dacyville
+                             dangar : danger
+                              dapto : dapton
+                       darbys falls : darby falls
+                       darlinghurst : darlingurst
+                         darlington : darlinton
+                           daysdale : dayesdale
+                          deer vale : deervale
+                         deniliquin : denililquin
+                          denistone : deniston, denitone, dennistone, densitone
+                             denman : denamn
+                            dharruk : dharuk
+                      dobroyd point : dorbroyd point
+             doctor george mountain : doctor george mount
+                       dondingalong : dondinalong
+                              dubbo : dubb
+                          duckmaloi : duckmaldi
+                             dudley : dudely
+                      duffys forest : duffy forest
+                       dulwich hill : dullwich hill
+                             dundas : dunduas
+                            dunedoo : dundeoo
+                         duns creek : dunns creek
+
+                         eagle vale : eagel vale, eagle bale, eagelvale,
+                                      eaglebale, eaglevale
+                           eastwood : eastwoood, eastwwod
+                           ebenezer : ebeneezer
+                       edensor park : edenser park, endensor park
+                          edgecliff : edgecliffe
+                          edgeworth : edgeoworth
+                    elanora heights : elanor heights
+                           eleebana : elebana, elebanna
+                      elermore vale : elemore vale, eleremore vale
+                      elizabeth bay : elizabrth bay
+                    elizabeth beach : elizabrth beach
+                         ellis lane : elllis lane
+                        emu heights : emus heights
+                         emu plains : emus plains
+                            enfield : enfiled
+                             epping : eppng
+                           erigolia : erigola
+                       erskine park : erskibne park, erskin park
+                       erskineville : erskinveville, erskinvilie, erskinville
+                         evans head : evnas head
+
+                          fairfield : faiefield, faifield, fairfeild,
+                                      fairfeld, fairfieldd, fairfiels,
+                                      fairfiled, fairield, fairifeld,
+                                      fairifield
+                          fairlight : failight, fairlgiht
+                       fairy meadow : fairy meadows, fairymeadow, fairymeadows
+                         far meadow : far meadows, farmeadows, farmeadow
+                      faulconbridge : falconbridge, faulconbidge
+                        fennell bay : fennel bay, fennells bay, fennnell bay
+                            figtree : figtreee
+                        fine flower : fineflower
+                         fingal bay : fingle bay
+                        fingal head : fingle head
+                        finger post : fingle post
+                   forresters beach : forrester beach, forrsters beach
+                       frederickton : fredericton
+                     freemans reach : freeman reach, fremans reach
+                 freemans waterhole : freeman waterhole, fremans waterhole
+                        french park : frenchs park
+                     frenchs forest : french forest, frenches forest
+
+                          gateshead : gatesehead
+                         georgetown : georetown, georgtown
+                         gerringong : gerrigong, gerrringong
+                             gerroa : geroa, gerrora
+                             geurie : geuris
+                             gilgai : gilgia
+                          gilgandra : gildandra
+                 gillieston heights : gilleston heights
+                            gilmore : gilmour
+                          girralong : giralong
+                          girraween : giraween
+                        gladesville : gladeville, gladsville
+                              glebe : glege
+                         glen alice : glenn alice
+                         glen allen : glenn allen
+                        glen alpine : glenn alpine
+                           glen ayr : glenn ayr
+                         glen davis : glenn davis
+                         glen elgin : glenn elgin
+                      glen fernaigh : glenn fernaigh
+                         glen innes : glenn innes, glenninnes
+                        glen martin : glenn martin
+                         glen nevis : glenn nevis
+                           glen oak : glenn oak, glen oaks, glenn oaks
+                          glen ward : glenn ward
+                       glen warning : glenn warning, glenn warming
+                       glen william : glenn william
+                          glenbrook : glenbrok
+                        glendenning : glenddenning, glendening, glenndening,
+                                      glenndenning
+                       glendonbrook : glendon brook
+                          glenhaven : glenhavem, glevhaven
+                           glenmore : glemore, glenmoore
+                         glenquarie : glennquarie, glenquary
+                         glenquarry : glennquarry
+                          glenreagh : glenreach
+                          glossodia : glossadia, glossidia
+                         gloucester : gloucest, glouster
+                            gol gol : golgol
+                     goobarragandra : goobragandra
+                         gooloogong : goolagong, goologong
+                        goonellabah : goonelabah, goonelalbah, goonnellabah
+                            gorokan : gorakan
+                            gosford : goasford, gosdford, gosfrod, gosofrd
+                           gostwyck : gostwick
+                           goulburn : golburn, goldburn
+                          granville : granvile, granvill, gravnville
+                           grasmere : grassmere
+               great mackerel beach : great mackeral beach
+                          greenacre : greenachre, greenarce, greencare
+                         greenlands : greenland
+                    greenwell point : greenwall point
+                          greenwich : greemwich, greenwic, greewich,
+                                      grenacre, grenwich
+                         greystanes : grestanes, greystane
+                           griffith : grifffith, griffiths
+                            gubbata : gubatta
+                          guildford : guidford
+                       gulargambone : gularambone, gularganbone, gulargumbone
+                             gungal : gungul
+                          gurrundah : gurrunda
+                          gwandalan : gwandalin
+                        gwynneville : gwynville
+                              gymea : gymes, gymwea
+
+                    hallidays point : halliday point
+                           hamilton : hamiltion, hamiltom
+                            harbord : harboard, harbords, harbourd, hardord
+                         harrington : harrinton
+                      hassall grove : hassal grove, hassel grove
+                         hazelbrook : hazelbroook
+                         hazelgrove : hazelgove, hazlebrook
+                         heckenberg : heckenburg, heckenebrg
+                        helensburgh : helensberg, helensburg, helensbugh
+                       herons creek : herrons creek
+                         highfields : highfield, highfileds
+                       hillsborough : hillborough
+                       hinchinbrook : hinchbrook, hinchibrook, hinchinbrok,
+                                      hinchingbrook, hincinbrook, hincnihbroo
+                      hmas creswell : hmas cresswell
+                        holmesville : holemsville
+                         holsworthy : holdsworthy
+                     huntleys point : huntley point
+                     hurlstone park : hurlston park, hurstone park,
+                                      hurlstone par
+                         hurstville : hurstrville, hurstvillle, hurtsville
+                          huskisson : huskinson, huskission
+
+                          ingleburn : inglburn, ingleaburn, ingleubrn, ingleurn
+                         innes view : iness view, innis view
+                           inverell : inverel
+                        invergowrie : invergowie, invergowri
+                          islington : islingtown
+
+                        jamisontown : jamiesontown, jamistown
+                            jannali : janalli, jannalli
+                         jerilderie : jeriderie
+                      jerrabomberra : jerrabmberra
+                            jewells : jewellls, jewels
+                            jilliby : jillaby, jillliby
+                        johns river : john river
+
+                          kanahooka : kanahhoka
+                            kareela : karela, karella
+                            kariong : karjong
+                           kearsley : kearlsley
+                           keerrong : keerong
+                         kellyville : kellyvile, kellyvills
+                            kempsey : kemsey, kemspey
+                         kensington : keningston
+                          kenthurst : kenthurt, kenthuurst
+                            kentlyn : kently
+                           kerrabee : kerrasee, kerebri
+                  killarney heights : kilarney heights
+                       killingworth : killingsworth
+                           kinchela : kinchella
+                      kings langley : kings langely, kings langly,
+                                      kings langsley, kings lawley,
+                                      kings lingley, king langely,
+                                      king langly, king langsley,
+                                      king lawley, king lingley
+                         kingscliff : kingscliffe
+                          kingsford : kinsford
+                         kingsgrove : kingsrove, kinsgrove
+                          kingswood : kingswod, kingswoods, kingwood, kinsgwood
+                           kirrawee : kirrawe
+                         kirribilli : kirribili, kirribill, kirriblli
+                           knockrow : knocknow
+                            kogarah : kogarh
+                          kooringal : koooringal
+                          krawarree : krawaree
+                          kundabung : kunderbung
+                            kurmond : kurmon
+                           kyeemagh : kyeemah
+
+                    lake cargelligo : lake careglligo, lake carelligo,
+                                      lake cargeligo, lake cargellico,
+                                      lake cargellig
+                        lake cathie : lake cathyie
+                      lake munmorah : lake mummorah, lake munmoran,
+                                      lake munmorh, lake munnmorah
+                          lakelands : lakeland
+                            lakemba : lakmeba
+                            lambton : lambtonm, lamton
+                       langley vale : langely vale, langly vale,
+                                      langsley vale, lawley vale,
+                                      lingley vale
+                       lavender bay : lavander bay
+                          lavington : laviington, lavinton
+                         leichhardt : leicharot, leighhardt
+                         lemon tree : lemmon tree
+                 lemon tree passage : lemmon tree passage
+                         leppington : leppingotn, leppinton
+                    lethbridge park : lethbrdge park, lethbride park,
+                                      lethbrige park, letherbridge park,
+                                      letheridge park
+                            leumeah : leumah, leumeach
+                        lewinsbrook : lewisbrook
+                           lidcombe : lidcomb, lidcome
+                    lightning ridge : lighning ridge, lightening ridge,
+                                      lighting ridge
+                        lilli pilli : lili pilli, lily pilli, lilli pilly,
+                                      lili pilly, lily pilly, lili pili,
+                                      lily pili, lilli pily, lili pily,
+                                      lily pily
+                          lilyfield : lillyfield
+                  limeburners creek : limeburner creek
+                          lindfield : lindfieldield, lindfiled, lindield
+                            lismore : lismroe
+                            lithgow : lithgo
+                          liverpool : liveerpool, liveprool, liverpol
+                           llandilo : llandillo, llandio
+                        londonderry : londondeery
+                        longueville : longerville, longeville
+                          loomberah : loomberali, loomerah
+                       lynchs creek : lynches creek, lynch creek
+                          lyndhurst : lyndurst
+
+                         macksville : macksvile, macskville
+                   macquarie centre : macq centre, macqarie centre,
+                                      macqaurie centre, macqqarie centre,
+                                      macquaire centre, macquaqrie centre,
+                                      macquareie centre, macquari centre,
+                                      mcquarie centre, macquariei centre,
+                                      macquarrie centre, macquatie centre,
+                                      macqurie centre, macqyarie centre,
+                                      macuarie centre, maquarie centre
+                   macquarie fields : macq fields, macqarie fields,
+                                      macqaurie fields, macqqarie fields,
+                                      macquaire fields, macquaqrie fields,
+                                      macquareie fields, macquari fields,
+                                      mcquarie fields, macquariei fields,
+                                      macquarrie fields, macquatie fields,
+                                      macqurie fields, macqyarie fields,
+                                      macuarie fields, maquarie fields,
+                                      macq field, macqarie field,
+                                      macqaurie field, macqqarie field,
+                                      macquaire field, macquaqrie field,
+                                      macquareie field, macquari field,
+                                      mcquarie field, macquariei field,
+                                      macquarrie field, macquatie field,
+                                      macqurie field, macqyarie field,
+                                      macuarie field, maquarie field
+                    macquarie hills : macq hills, macqarie hills,
+                                      macqaurie hills, macqqarie hills,
+                                      macquaire hills, macquaqrie hills,
+                                      macquareie hills, macquari hills,
+                                      mcquarie hills, macquariei hills,
+                                      macquarrie hills, macquatie hills,
+                                      macqurie hills, macqyarie hills,
+                                      macuarie hills, maquarie hills,
+                                      macq hill, macqarie hill,
+                                      macqaurie hill, macqqarie hill,
+                                      macquaire hill, macquaqrie hill,
+                                      macquareie hill, macquari hill,
+                                      mcquarie hill, macquariei hill,
+                                      macquarrie hill, macquatie hill,
+                                      macqurie hill, macqyarie hill,
+                                      macuarie hill, maquarie hill
+                    macquarie links : macq links, macqarie links,
+                                      macqaurie links, macqqarie links,
+                                      macquaire links, macquaqrie links,
+                                      macquareie links, macquari links,
+                                      mcquarie links, macquariei links,
+                                      macquarrie links, macquatie links,
+                                      macqurie links, macqyarie links,
+                                      macuarie links, maquarie links
+                     macquarie park : macq park, macqarie park,
+                                      macqaurie park, macqqarie park,
+                                      macquaire park, macquaqrie park,
+                                      macquareie park, macquari park,
+                                      mcquarie park, macquariei park,
+                                      macquarrie park, macquatie park,
+                                      macqurie park, macqyarie park,
+                                      macuarie park, maquarie park
+                     macquarie pass : macq pass, macqarie pass,
+                                      macqaurie pass, macqqarie pass,
+                                      macquaire pass, macquaqrie pass,
+                                      macquareie pass, macquari pass,
+                                      mcquarie pass, macquariei pass,
+                                      macquarrie pass, macquatie pass,
+                                      macqurie pass, macqyarie pass,
+                                      macuarie pass, maquarie pass
+               macquarie university : macq university, macqarie university,
+                                      macqaurie university,
+                                      macqqarie university,
+                                      macquaire university,
+                                      macquaqrie university,
+                                      macquareie university,
+                                      macquari university,
+                                      mcquarie university,
+                                      macquariei university,
+                                      macquarrie university,
+                                      macquatie university,
+                                      macqurie university,
+                                      macqyarie university,
+                                      macuarie university,
+                                      maquarie university
+                           maianbar : mainanbar, mainbar
+                           maitland : mailand, mailtand, maitand, maitlad,
+                                      miatland
+                          mallabula : mallabulla, mallubula, mallubulla
+                          mandurama : manduram
+                          mangoplah : mangolpah
+                              manly : manley, many, manyly
+                           maraylya : marayla
+                           marayong : marryong, maryong
+                              mardi : marde
+                           maroubra : marouba, maroubraa, maroubrah
+                        marrangaroo : marrargaroo
+                       marrickville : marrcikville, marrickviile, marrickvile,
+                                      marrickvillle, marrickvlll
+                 marrickville metro : marrcikville metro, marrickviile metro,
+                                      marrickvile metro, marrickvillle metro,
+                                      marrickvlll metro
+                       marsden park : marsdan park
+                          marsfield : marsfied, marsfielfd
+                           maryland : marylands
+                             mascot : mascott
+                         matraville : matarville, mateaville, matreville
+                           mayfield : mayfeild, mayield
+                     mcmahons point : mcmahon point
+                      mcmahons reef : mcmahon reef
+                        meadow flat : meadows flat, meadowflat, meadowsflat
+                         meadowbank : meadowsbank, meadows bank, meadow bank
+                            medowie : medowia
+                         merewether : mereweter, merewethr, merewther,
+                                      merwether
+                       meroo meadow : meroo meadows, meroomeadow, meroomeadows
+                            merriwa : merriwar
+                          merrygoen : merryglen
+                         merrylands : merrtylands, merryalnds, merryland,
+                                      merylands
+                         milbrodale : milbbrodale
+                        minchinbury : minchbury, minchinberry, minichinbury
+                          mona vale : monv vale
+                           monterey : monteray, monterwy
+                          moorebank : morebank
+                           morisset : morisett, morrisett, morrisset
+                      morisset park : morisett park, morrisett park,
+                                      morrisset park
+                            morpeth : morpe
+                       moruya heads : moruya head
+                             morven : morvew
+                             mosman : mosmans, mosmn, mossman
+                        mount annan : mount anan, mount anann, mount annon
+                       mount druitt : mount druit
+               mount druitt village : mount druit village
+                   mount kuring gai : mount kuringgai
+                    mount pritchard : mount pitchard, mount prichard,
+                                      mount priichard, mount pritcchard,
+                                      mount pritchards, mount pritcharrd,
+                                      mount prithchard, mount prittchard,
+                                      mount prtichard
+                       mount rankin : mount ranin, mount rakin
+                      mount russell : mount russel, mount russsell
+                 mount saint thomas : mount st thomas
+                     mount victoria : mount vic
+                             mudgee : mudge
+                           mullaley : mullalley
+                        mullumbimby : mullimbimby, mulllumbimby
+                             mummel : mummell
+                           mungindi : mungundi
+                      murrumbateman : murrumbatembu
+                         murrurundi : murrundi
+                       murwillumbah : murillumbah, murwillumbar, murwilumbah,
+                                      murwullimbah, murwullumba
+                       muswellbrook : musewellbrook, mussellbrook
+
+                     nambucca heads : nambucca head, nambuclea head,
+                                      nambuclea heads
+                      napoleon reef : napoleons reef
+                             narara : narra, narrara
+                           narellan : narallen, narella, narellen, narralan,
+                                      narrallen, narrelan, narrellan
+                      narellan vale : narallen vale, narella vale,
+                                      narellen vale, narrellan vale
+                                      narralan vale, narrallen vale,
+                                      narrelan vale
+                          naremburn : narembure
+                          narrabeen : narrabeeen, narraben, narrabenn,
+                                      narrabern, narrbeen
+                           narrabri : narrabari, narrabbi
+                          narrambla : narambla
+                         narrandera : narrandra, narranderra
+                         narraweena : narrraweena, narrweena
+                           nelligen : nelligan
+                             nelson : nelsons
+                           nemingha : nemingah
+                          newcastle : newcastley
+                       niagara park : niagra park
+                        normanhurst : normanahurst, normanhaurst,
+                                      normanhursst, normanhust, normnahurst
+                        northbridge : northbrifge, northbrige
+                          northmead : norhmead, northhead
+                              nowra : nowa, nowrsa
+                     nowra naval po : nowra naval
+                             numbaa : numba
+                          numeralla : numerlla
+                            nymagee : nymageee
+                             nyngan : nyngam
+
+                          oak flats : oak flat, oaks flat, oaks flats
+                           oakhurst : oakurst
+                           oconnell : o'connell, o connell
+                           ourimbah : ourmibah
+
+                         paddington : padddington, paddinghton, paddingtn,
+                                      paddingto
+                        paddys flat : paddys flats, paddy flat
+                       paddys plain : paddys plains, paddy plain
+                       paddys river : paddy river
+                            padstow : padstown, padtow, padtsow
+                    palmers channel : palmer channel
+                     palmers island : palmer island
+                       palmers oaky : palmer oaky, palmers oakey, palmer oakey
+                            panania : panaia, pannia
+                        pappinbarra : papinbarra, pappibarra
+                         parramatta : paraamatta, paramata, paramatta,
+                                      parraatta, parramata, parramatt,
+                                      parrmatta, parrramatta
+                          peakhurst : peahurst
+                         pelaw main : pelew main
+                          pembrooke : pembroke, pembrook
+                        pendle hill : pendel hill, pendell hill
+                      pennant hills : penannt hills, penant hills,
+                                      pennatn hills, pennenat hills,
+                                      pennent hills
+                            penrith : penirth
+                          penshurst : penhurst
+                         perthville : pertville
+                    pheasant ground : pheasants ground
+                     pheasants nest : pheasant nest
+                        phegans bay : phegan bay
+                           plumpton : plumopton
+                        point clare : point claire
+                     port macquarie : port macq, port macqarie,
+                                      port macqaurie, port macqqarie,
+                                      port macquaire, port macquaqrie,
+                                      port macquareie, port macquari,
+                                      port mcquarie, port macquariei,
+                                      port macquarrie, port macquatie,
+                                      port macqurie, port macqyarie,
+                                      port macuarie, port maquarie
+                           portland : portlant
+                        prairiewood : praireiwood, prairewood, prairiewoods,
+                                      prairwood
+                           prestons : preston
+                          punchbowl : puncbowl, punchbowql
+                             pymble : pymbl, pymle
+                            pyrmont : prymont
+
+                       quakers hill : quakeers hill, quaker hill,
+                                      quakes hill, quakres hill
+                         queanbeyan : queanbean, queenbeyan
+            queen victoria building : queen vic building
+                        queenscliff : quennscliff
+                       quorrobolong : quorrabolong
+
+                           randwick : randwickk, randwock, ranwick
+                        rankin park : ranin park
+                    rankins springs : rankin springs, ranin springs,
+                                      rankin spring
+                          rappville : rapville
+                          rathmines : rathminnes
+                          razorback : razerback
+                            redfern : redern, refern
+                            revesby : reversby
+                           richmond : richond, ricmond
+                          riverview : riverveiw
+                          robertson : roberston
+                          roseberry : rosbery
+                           rosebery : rosberry
+                          roselands : roseland
+                         rosemeadow : rosemeadows, rose meadow, rose meadows,
+                                      rosemadow, rosemwadow
+                          roseville : rosevile
+                           rossglen : rossglan, ross glen
+                       run o waters : runo water, run owater
+                        russell lea : russell les, russel lea, russsell lea
+                         rutherford : ruthrford
+                          rydalmere : ryalmere, rydalemere, rydelmere,
+                                      rydlemere
+                               ryde : rdye, rydeield
+                           rylstone : rylestone
+
+                          sackville : sackvill
+                            sadleir : sadlier sadiler
+                       saint albans : st albans
+                      saint andrews : st andrews
+                        saint clair : st clair
+                      saint fillans : st fillans
+                saint georges basin : st georges basin
+                       saint helena : st helena
+                  saint helens park : st helens park
+               saint huberts island : st huberts island
+                         saint ives : st ives
+                   saint ives chase : st ives chase
+                        saint james : st james
+                   saint johns park : st john park, saint john park,
+                                      st johns park
+                     saint leonards : st leonards
+                        saint marys : st marys
+                     saint patricks : st patricks
+                        saint pauls : st pauls
+                       saint peters : st peters
+                     salamander bay : salamader bay, salamanda bay,
+                                      salamandr bay
+                        sallys flat : sally flat
+                        san isidore : san isadore
+                         sans souci : sans sauci, sans soucci, sans souce
+                           saratoga : saratogo, sartoga
+                      sawyers gully : sawyery gully
+                         schofields : schofield
+                        shanes park : shane park
+                       shellharbour : shellhabour
+                   shoalhaven heads : shoalhaven head, shoalheaven heads
+                          shortland : shortand
+                          singleton : singelton, singletion, singlton,
+                                      sinlgeton
+                      skillion flat : skillon flat
+                         smithfield : smithfeild, smithield
+                       speers point : spears point, spers point
+                        springfield : springfiled
+                         springvale : sprigvale
+                         stanbridge : stanbidge
+                   stanford merthyr : staford merthyr, standford merthyr,
+                                      staford mertyr, standford mertyr,
+                                      staford methyr, standford methyr
+                           stanmore : stamnore, stanmoore
+                      stockinbingal : stockingbingal
+                        strathfield : stathfield, strahtfield, straithfield,
+                                      stratfield, strathfeild, strathfie,
+                                      strathield
+                   strawberry hills : strawbery hills, strawberry hill
+                           sunshine : sunshiine
+                        surry hills : surrey hills, surry hill, surrey hill
+                          swan vale : swanvale
+                      swansea heads : swansea head
+                           sydenham : sydneham
+                             sydney : sydeny
+                     sydney airport : syd airport
+       sydney international airport : syd inter airport
+                           sylvania : sylvainia, sylvannia, sylvinia, sylvnia
+
+                         tabbimoble : tabbimobile
+                      tabourie lake : lake tabourie
+                            tabulam : tabulan, tabulum
+                            tahmoor : tahmook, tahmoore, tahmor
+                            tallong : tallons
+                           tamarama : tamarrama
+                       tantawangalo : tantawanglo
+                             tarago : taraga
+                            taralga : taragala
+                        tarbuck bay : tarbuch bay
+                        taren point : tarren point
+                         tarraganda : tarraglanda
+                         tarrawanna : tarawanna
+                            tascott : tascot
+                      taylor square : taylors square
+                        taylors arm : taylor arm
+                      taylors beach : taylor beach
+                       taylors flat : taylor flat
+                      taylors point : taylor point
+                        tea gardens : tea garden
+                            telopea : teleopea, telopia
+                           tenambit : tenabit, tenanbit, tennambit
+                        tenterfield : tenterfiled
+                             terara : terrara
+                       terrey hills : terry hills
+                           terrigal : terrgial
+                       the entrance : the entrace, the ent
+                        the meadows : the meadow
+           the university of sydney : sydney university, sydney uni
+                          thirlmere : thilmere, thirlemere
+                         thornleigh : thonleigh, thoprnley, thornliegh
+                           thornton : thonton, thorton
+                    tingira heights : tingara heights
+                         toongabbie : tonngabbie, toobgabbie, toongabbbie,
+                                      toongabie, toonggabie, toonsabbie,
+                                      toowangabbie
+                           toormina : toomina
+                          tottenham : totenham
+                           towradgi : towardgi, towragi
+                            tregear : treagar, treagear, tregeale
+                         tubbamurra : tubbumurra
+                         tuckurimba : tuckerimba
+                           tuggerah : tuggarah
+                        tuggerawong : tuggerwong, tugggerawong
+                          tugrabakh : tugrabahk
+                        tullibigeal : tullivegeal
+                         tumbi umbi : tumbi umby, tumby umbi, tumby umby,
+                                      tmbi umbi, tmbi umby, tmby umbi,
+                                      tmby umby
+                         turramurra : turamurra, turramura, turramurrra,
+                                      turramuurra, turrmaurra, turrumarra,
+                                      turrumurra
+                        tweed heads : tweed head, tweeed heads, tweeed head
+                           tygalgah : tyaglgah
+
+                          ulladulla : ulladula, ulludulla
+                        umina beach : umina
+                          unanderra : unaderra
+                        undercliffe : undeercliffe
+                         urbenville : urbenvile
+
+                               vacy : vacey
+                           vaucluse : vauclause, vauclusse, vaulcluse
+                          villawood : vilawood, villawodd
+                           vineyard : vinyard
+
+                        wagga wagga : waga waga, wagg wagg, wagga wagg,
+                                      wagg wagga
+                          wagstaffe : wagstaff
+                          wahroonga : waharoonga, wahroongah, waroonga
+                             waitui : waitiui
+                            wakeley : wakely, wakley
+                      wallabi point : wallaby point
+                      wallaby creek : wallabi creek
+                           wallacia : walacia
+                        wallendbeen : wallenbeen
+                        wallerawang : wallerawng, wallerwang
+                           wallsend : walllsend, wallslend, wallsned
+                           wamberal : wameral
+                          wanaaring : wanarring
+                        wangi wangi : wangi wangio, wangio wangi,
+                                      wangio wangio
+                          warabrook : warabrok, warabrrok, warrabrook
+                           warialda : warrialda
+                            warilla : warrila
+                         warnervale : warnevale
+                          warrawong : warrawang
+                         warriewood : warriwood
+                           warrigal : warrgial
+                       warwick farm : warick farm, warrick farm
+                          watanobbi : watanobbie, wattanobbi, wattanobi
+                       wattle ponds : wattleponds
+                         wedderburn : wedderbun
+                          weethalle : weethallee
+                          wentworth : wenmtworth, wenworth
+                     wentworthville : wentheorthville, wenthworthville,
+                                      wentworthille, wentworthvile,
+                                      wentworthvill, wentwortville,
+                                      wentwothville, wenworthville
+                         werrington : werington, werrngton
+                  werrington county : werrington cnty, werrington coun
+                          westleigh : westlleigh
+                     wetherill park : wetherell park, wetheril park,
+                                      wethrill park
+                             whalan : whalen, whallan
+                         white rock : whiterock
+                        whitebridge : whitbridge
+                          wiangaree : wiangarie
+                            wickham : wichkham
+                        wilberforce : wilderforce, willberforce
+                      wildes meadow : wildes meadows, wilde meadow,
+                                      wilde meadows
+                         wiley park : willey park
+                        willawarrin : willawarin, willawarren, willwarrin
+                        williamtown : williamtow
+                            willmot : wilmot, willmott, wilmott
+                         willoughby : willloughby, willouby, willougbhy,
+                                      willougby, willoughbhy, willoughy,
+                                      willouhby
+                         windermere : windemere, windemire, windermore,
+                                      windmere
+                    windermere park : windemere park, windemire park,
+                                      windermore park, windmere park
+                         windradyne : windrodine
+                            windsor : windosr, winsor
+                           winmalee : winmamalee, winmlaee
+                      winston hills : winstons hills, winston hill,
+                                      winstons hill
+                         wollomombi : wollomonbi
+                         wollongbar : wollongabar
+                         wollongong : wollogong, wollongomg, wollongon,
+                                      wollonong, wolongong, woollongong
+                     wollstonecraft : wollestoncraft, wollstoncraft,
+                                      wolstonecraft, wolstonecraft
+                            wolumla : wolomla
+                          woodberry : woodbury
+                          woodstock : woostock
+                         woolgoolga : woolgollga
+                          woollahra : wollahra, woolahara, woolahra, woollara,
+                                      woollarah, woollarha, woollhara
+                          woollamia : woolamia, woolamin
+                      woolloomooloo : woollomooloo, woolloomoloo,
+                                      woolloomoolloo, woolloomoooloo,
+                                      wooloomooloo
+                         woolooware : woolaware, woollaware, wooloware
+
+                            woonona : woonara
+                            wootton : wooton
+                           woronora : wororonora
+                           wyangala : wyangla
+                            wyoming : wyomins, wyoning
+                            yagoona : yagooma
+                           yanderra : yandarra
+                        yarramalong : yarramalaong
+                        yarranbella : yarrambella
+                           yarravel : yaravel, yarravell
+                        yarrawarrah : yarrawarah, yarrawarra
+                         yerrinbool : yerribool
+                           yetholme : yetholmes

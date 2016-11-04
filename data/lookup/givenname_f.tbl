@@ -1,0 +1,471 @@
+# =============================================================================
+# givenname_f.tbl - Lookup-table for female givennames
+#
+# Sources: - NSW Health Department pattern and classification files
+#          - Various web sites with given name lists
+#
+# Last update: 31/03/2003, Peter Christen
+# =============================================================================
+
+tag=<GF>  # Tag for female givennames
+
+         aaliyah : alaiyah
+         abigail : abbey, abbie, abby, abii
+        adelaide : addie, addy, adel, adela, adele, adeline, adelle
+         adriana : adrienne
+           agnes : aggie
+          aileen : eileen, ileen
+      aikaterina : 
+           aimee : 
+         ainsley : 
+           alana : allana, alanna, allanah, alannah
+         aleesha : aleisha, alessia, alysha, alyssa
+            alex : 
+          alexis : 
+       alexandra : alexa, alexia, alexanda, alexanderia,
+                   alexandria, sandie, sandra, sandy, alessandra,
+                   alessandria, lexie
+           alice : alia, alicia
+           alisa : alisha, alissa, alison, allie, allison, aliza
+          alivia : 
+         allegra : 
+          amalia : amalie, amelie, amelia
+           amaya : 
+           amber : 
+        ambrosia : 
+           anari : 
+       anastasia : stacia
+          amanda : amy, mandy
+          andrea : andie
+           aneka : anika
+          angela : angel, angelo, angie, angelica, angelina
+           anita : agneta, neta, netta, nita
+            anna : anette, ann, anne, annette, annie, anny
+       annabella : annabel, annabelle
+        annalise : anneliese
+          annika : 
+          anthea : 
+           april : 
+        arabella : 
+            arki : 
+            asha : 
+          ashley : ashleigh, ashlee, ashlie
+          audrey : audie
+          ashton : 
+          aurora : 
+             ava : 
+            ayla : 
+
+          bailey : bailee
+         barbara : bab, babb, babs, barb, barbe, barbie, barbra
+        beatrice : bea, bee, trixie, trixy
+         belinda : linda, lindy, lydie, lynda
+         beverly : bev, beverley
+          bianca : 
+          bonita : bonnie, bonny
+          breana : breeanne, brianna
+          breony : briony
+            bree : 
+         bridget : biddy, brigette
+         brielle : 
+        brigitte : brigitta, birgit, birgitte, birgitta
+          briley : 
+          bronte : 
+          brooke : 
+        brooklyn : 
+          brydee : 
+         bronwyn : bronvyn, bronwin
+
+        campbell : cambell
+         camille : camilla
+          carina : cara, kara, karen, karin, karina
+         caresse : 
+           carla : carly, karla karly
+          carmen : karmen
+           casey : kaysey, kasey
+          carmel : carmela
+           carol : carel, carole, carolina, caroline, carollyn,
+                   carolyn, carrie, caryl, karol, ocarroll
+       cassandra : cassie, cassidy
+       catherine : caitlin, caitlyn, caterina, cath, cathie, cathline, cathy,
+                   catriona, kate, kath, katherine, kathleen, kathlyn,
+                   kathrine, kathryn, kathy, katie, katrina, katy, kay,
+                   kaye, kit, kitty, katharine, katelin, katelyn
+         cecilia : cecelia, celia, cissie, sissie
+        channing : 
+       chantelle : chantel, shantal
+         charlee : charli
+        charlize : 
+       charlotte : carlotta, lottie, lotty
+         chelsea : chelsie
+          cheree : 
+        chevonne : 
+        cheyenne : 
+           chloe : 
+       christine : christina, cristina, kirsten, kristeen, kristin,
+                   kristen, krystin kristina, kristine, tina, tine
+          claire : clare, chiara, clair, clara, clarinda
+         claudia : claudine
+         clodagh : 
+         colleen : callie, collie
+       constance : connie, constanza
+     constantine : con, constantin, konstantin, konstantine, konstantyn
+            cora : corie, corrie
+         coralie : coral
+        courtney : 
+         crystal : 
+
+        danielle : daniella
+          danika : 
+          darcie : darcy
+           dayna : 
+             dea : 
+         deborah : deb, debbie, debby, debra
+         delaney : 
+           della : dela
+           demie : 
+          denise : denice, denyse
+          desire : desi, desiree
+        destynii : destiny
+         diamond : 
+           diane : deana, deanna, dee, diana, dianna, dianne
+         dolores : delores, lola, lolita
+       domenique : 
+         dorothy : doll, dollie, dolly, dora, doreen, dorie, doris,
+                   dorotea, dorothea, dorthie, dot, dottie, dotty
+
+          eartha : herta, hertha
+          ebonie : eboni, ebony
+         eleanor : elaine, eleanora, eleanore, leanora, lenore, leonora,
+                   nora, norah, elana, eleni
+       elizabeth : babette, bess, bessie, bessy, bet, beth, betsey,
+                   betsy, bett, bette, bettie, bettina, betty, bettye,
+                   elisa, elisabeth, elisabetta, elise, elissa, eliz,
+                   eliza, elize, elspeth, libby, lisa, lisbeth, lisette,
+                   lissa, liz, liza, lizabeth, lizbeth, lizzie, lizzy,
+                   lyssa, elisha, bethanie, bethany
+         ellorah : 
+        ellouise : eloise, elysse
+            elsa : ella, elle, ellen, ellie, elsie, elzie, elli, elly, 
+                   nell, nellie
+         emalene : 
+         emerson : emmerson
+           emily : em, ema, emelie, emeline, emilia, emilie,
+                   emma, emmeline, emmie, emiily
+           erica : erika
+            erma : irma
+            erin : 
+       esmerelda : esme
+         estelle : stella
+          esther : essie, ester, etta, ettie, etty
+          eugene : eugen, eugenia, eugenie, eugeniusz, eugenusz, gene
+          eunice : eunie
+        euphemia : effie, effy, eufemia
+        eustacia : stacey, stacie
+          evelyn : eva, eve, eveline, evie, evangelia
+
+           faith : fay, faye
+        felicity : felicia
+            finn : 
+           fiona : 
+             flo : 
+        florence : fiorenza, florrie, flossie
+          france : ffrance
+         francis : fannie, fanny, fran, frances, francesca,
+                   francie, francine, francy, frannie
+       frederica : fredericca
+           freya : 
+         fyynlay : fynlay
+
+       gabriella : gabrielle
+         gemaley : 
+         georgia : georgina, georgie
+        gertrude : gert, gertie, trudie, trudy
+           giaan : 
+         gillian : jillian, jilian, gilian, jill
+         giorgia : jorja 
+          gladys : glad, gwladys
+         glenice : glen, glenis, glenn, glenyce, glenys
+           golda : goldie, goldy
+           grace : gracie, grais
+       gwendolyn : gwen, gwenda, gwendaline, gwendoline, gwendolyne,
+                   gwendolynne
+        gwenneth : gweneth, gwenith, gwenyth, gwyn, gwyneth
+           gytha : githa
+
+           hanna : hana, hanah, hannah
+          harley : 
+          hayley : haylee
+         heather : 
+          helena : helen, elena, helene, hellen
+       henrietta : harriet, hattie, hendrika, henriette, hettie,
+                   hetty, netty
+           hilda : hilde, hildegarde
+           holly : hollie
+
+             ida : ada, aida
+          imogen : 
+         indiana : india, indyana
+           irene : rena, rene, rennie
+          isabel : bel, bella, belle, isabella, isabelle, isobel,
+                   isobelle, ysobel
+
+         jacinta : jacynta
+      jacqueline : jackie, jacquline
+            jade : 
+           jaime : jaimee, jamilla
+            jana : yana
+          jasmin : jasmine, jasmyn, yasmin
+           jayde : 
+            jazz : 
+           jemma : gemma
+            jane : giovanna, jan, janelle, janet, janette, janice,
+                   janiece, janine, janis, janne, jannette,
+                   jeanette, jeanne, juanita
+        jennifer : jen, jenn, jenna, genevieve, jenny
+          jemima : jayme, mimi
+           jinni : 
+         jessica : jess, jessie, jettie
+          joanna : joan, joanne, johan, johanne
+          jordan : jordyn
+         joselyn : jaslyn
+       josephine : giuseppa, josie
+           joyce : jo, jocelyn, joy
+          judith : jody, judie, judy
+           julia : giulia, giulietta, julie, juliet, julietta, july,
+                   juliana, giuliana
+
+         kaitlin : kaitlyn
+         karissa : 
+           karla : karlee, karli
+           kayla : kyah, koula, keahley
+          keeley : keelin, keely
+           kelly : kelli, keli, kely, kaela, kailey, kalli, kallie
+          kelsea : kelsey, kelsy, kelsye
+          keziah : 
+           kiana : 
+         kiandra : 
+         kiarnee : 
+        kimberly : kimberley, kim, kimbley, kimm
+            kira : kiara, kiera, kiria, kierra, kirra, kirrah, kyra,
+                   kyrra, kyrah, keira
+           kylie : kylee
+
+           lacey : 
+        laetitia : 
+         laklynn : 
+            lani : 
+         larissa : 
+           laura : lara, laurel, lauren, loren, lorenza, loretta
+             lee : lahey, lea, leah, leigh
+           leila : leilia, lela, lila, layla
+         letitia : leticia, letta, lettice, lettitia, letty, tish
+         lillian : lia, lil, lili, lilian, lilllian, lillie, lilly, lily,
+                   lillianna, liana
+         lindsey : lindsay, linsay, linsey, lynnsay
+           logan : 
+        lorraine : loraine
+          louise : lois, louisa, luisa, luise, lulu
+           lucia : luzia
+            lucy : cindy, lucie, lucile, lucille, lucinda
+          lushia : 
+           lydia : 
+           lynae : 
+         lynette : linette, lyn, lynn, lynne
+
+           mabel : mable, maybelle
+           macey : macy
+       mackenzie : mackenzi
+        maddison : 
+        madeline : madalyn, madelaine, madeleine, madelina, magda,
+                   maud, madelyn
+         madison : 
+         makayla : 
+        makenzie : makenzi
+          maliah : 
+        marcella : marcia, marcie, marsha
+        margaret : greta, gretal, madge, maggi, maggie, maisie, marg,
+                   margareta, margarita, marge, margery, margie, margo,
+                   margorie, margot, marguerita, marguerite, margurita,
+                   marj, marjorey, marjorie, marjory, meg, miriam, peg,
+                   peggie, peggy, reta, rita
+          marian : mariana, marianna, marianne, marien, marijan, marion,
+                   maryan
+         marilyn : marylon, marylyn, merrilyn
+          marina : marinna
+         marleen : marlee, marlene, marleigh, marley
+          martha : marta
+            mary : mame, mamie, maree, maria, marie, marya, moira,
+                   moyra, mhary
+        mathilda : matilda, mathilde, tillie, tillis, tilly
+         matisse : 
+           maude : madie
+         maureen : maurine
+             may : mae
+            maya : maia
+          meagan : megan, meggie
+         melinda : mel, melanie
+         melissa : mellissa
+        meredith : merry
+           merle : merrill, meryl
+             mia : mya
+            mira : myra
+        michaela : micaela, mikaela, mikayla, mikhaili, mikhayla 
+        michelle : 
+            mila : 
+          millie : milli, milly
+         miranda : 
+           molly : mollie, moly, moli
+         monique : monic
+         montana : montanna
+          morgan : 
+        mystique : 
+           myrna : merna, moina, morna, moyna
+
+          nacoya : 
+           naomi : 
+           nancy : nan, nance, nancye, nanette
+         natalie : nat, natalia, natalee, nathalia, nathalie
+          nasyah : 
+         natasha : 
+        natassia : 
+         nemesia : 
+           neneh : 
+            neve : 
+           niamh : 
+          nicole : nicola, nichola, nichole, nicky, nikki, nicoletta
+          nikita : 
+         noeleen : noelene, noelle, nola
+          noreen : norine
+
+            olga : 
+          olivia : livia, livvie, olive, olly
+
+            pace : 
+           paige :  page
+          pakita : 
+          pamela : pam
+           paris : 
+         pascale : 
+        patricia : patsy, pattie, patty
+           paula : paola, paolina, pauline
+        penelope : penny
+           pearl : pearlie
+            peta : 
+           petra :
+        petreece : 
+          peyton : 
+         phillis : phylliss, phyllys
+          phoebe : 
+             pia : 
+           polly :  pollyanna
+          portia : 
+       priscilla : cilla, pris
+        prudence : prue
+
+         rachael : rachel, raquel, raquelle, rachele
+         raelene : wray, raylene
+         rebecca : becky, rebekah
+           regan : reegan, reganne
+          renata : renee, renai
+        rhiannon : 
+          rhonda : rhona, roma
+         reilley : rilly, reily, ryleh
+         roberta : bobbie
+           robin : robyn, robyne, robynne
+          roisin : 
+           ronda : rona
+            rose : rosa, rosalie, rosalind, rosalinda, rosalyn,
+                   rosamond, rosamund, roseanna, rosehannah, roseline,
+                   rosetta, rosie, rosina, rositta, rossetta
+        rosemary : rosemarie
+            ruby : rubie
+            ruth : ruthie
+
+           saige :
+           sally : 
+             sam : 
+        samantha : 
+          samara : 
+           sarah : saara, sara, sadie, zara, zarah, zarlia
+          sascha : sarsha, sasha
+          saskia : 
+        savannah :  
+          serena : 
+            shae : shai
+         shakira : schkirra, shakirah
+           shana : sana, shena, shenae, shona
+         shanaye : 
+        shandril : 
+         shannon : 
+        sharlene : charlene
+          sharon : sharron, sherry
+          shelby : shelbey
+          sheila : sheilagh, shiela
+          sheryl : cheryl
+         shirley : shirlie
+            sian : 
+         sidonie : 
+          sienna : seanna
+          simona : simone
+            skye : 
+           sonja : sonia
+          sophie : sofia, sofie, sophia
+       stephanie : stefanie, 
+          summer : 
+           susan : su, sue, susanna, suse, susie, suzanne, suzie
+         sybella : sibilla, sybille, sybilla, sibille
+          sylvia : silvia, sylvie 
+
+          taalia : talia, taliah, talyah
+         tabitha : 
+          tahlia : 
+          tahnee : tahni
+          takara : 
+        takeisha : 
+          talena : 
+         talissa : 
+          tamara : tammie, timara
+           tansy : 
+        tanyshah : 
+            tara : 
+          tarnee : 
+          tarnia : 
+         tarshya : 
+           tayah : 
+          taylor : tayla, taylah, tylah, tyler
+           teaha : 
+            teal : 
+           tegan : teagan, teegan
+         teileah : 
+         tenille : teneille
+         theresa : teresa, tess, tessa, therese, tracie, tracy
+         tiahana : tia, tiahnee
+           tiana : 
+          tiarna : 
+         tiffany : tiff
+            tori : 
+         trinity : 
+         tuscany : 
+
+         valerie : val, valeria, vallie
+         vanessa : nessi
+         vendula : 
+          vianca : 
+        victoria : vicki, vickie, vicky, vittoria
+          violet : vi, viola
+        virginia : ginny
+          vivian : viv, vivianne, vivien, vivienne
+
+           wanda : wendy
+      wilhelmina : mindy, minnie, vilma, wilma
+          willow : 
+
+            xani : 
+          xanthe : 
+
+          yvonne : 
+          yvette : 
+
+            zali :
+             zoe :

@@ -1,0 +1,22 @@
+# =============================================================================
+# title.tbl - Lookup-table for title words
+#
+# Source: - NSW Health Department AutoStan pattern and classification files
+#
+# Last update: 30/07/2002, Peter Christen
+# =============================================================================
+
+tag=<TI>  # Tag for name prefix words
+
+             col : colonel
+             cpl : corporal
+             cpt : capt, captain
+              dr : dds, doc, doctor, jd, md, phd
+             hon : honourable
+             gen : general
+             lgt : lieut, lieutenant
+              mr : mister
+              ms : miss, misses, mrs
+             pfc : 
+             rev : reverend
+             sgt : sargeant

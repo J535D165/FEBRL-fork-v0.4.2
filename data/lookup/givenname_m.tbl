@@ -1,0 +1,455 @@
+# =============================================================================
+# givenname_m.tbl - Lookup-table for male givennames
+#
+# Sources: - NSW Health Department pattern and classification files
+#          - Various web sites with given name lists
+#
+# Last update: 31/07/2002, Peter Christen
+# =============================================================================
+
+tag=<GM>  # Tag for male givennames
+
+           aaron : aron, arran, haroun
+         abraham : abe, abram, abramo, ibrahim
+            adam : adamo, addam, addamo
+          adolph : adolf, adolfo
+          adrian : adriano, adrien, hadrian
+           aidan : aiden, aidyn
+            ajay : 
+            alan : alano, albie, alen, allan, allen
+        alastair : alister, allister, alistair, allistair
+          albert : alberto, bert, bertie, burt
+            alex : 
+          alexis : 
+       alexander : alec, aleksandar, aleksander, aleksandr, alessandro,
+                   alexandre, alexandros, alexandrovich, alexi,
+                   alexnder, alick, lexi, zandra
+          alfred : alf, alfee, alfie, alfreda, alfredo, fred, fredo, freddo
+        alphonso : affie
+           alvin : alveen, alwine, alwyn
+          andrea : 
+          andrew : andre, andreas, andy, drew
+           angus : gus
+         anthony : anthon, anthoney, anthoni, anthonie, anthonious,
+                   anthonius, anthoy, antionus, anton, antone, antoni,
+                   antonio, antony, toni, tony
+       archibald : arch, archie, archiebald, archer
+          arnold : arney, arnie
+           arren : 
+          arthur : art, artie, artur, arturo, athur, auther, autther
+       augustine : agosto, augie, august, auguste, augustus, austen,
+                   austin
+        aurelius : aurelio
+             ash : 
+          ashley : 
+          ashton : 
+           ayden : 
+            axel : aksel
+
+          bailey : bailley
+        barnabas : barnaby, barnie, barny
+           barry : barrie
+     bartholomew : bart, barth, bartie, bartolomeo
+           basil : basileus, vassily
+          barkly : 
+          baxter : 
+          bayden : 
+          bayley : 
+            beau : 
+        benedict : benedetto, benito
+        benjamin : ben, benji, benjy, bennie
+         bernard : barnard, barney, benardus, berhardt, bernardo,
+                   bernhard, bernhardt, bernie, berny, birney
+         bertram : bertrand
+           bjorn : bourne
+           blade : 
+          blaize : 
+           blake : blayke
+       blakeston : 
+           bodhi : 
+         bradley : brad
+        brambley : bramley
+         braiden : braedon, brayden, braydon, bryden, brydon
+         brendan : brandon
+           brett : 
+         brinley : 
+           brian : brien, briant, bryan, bryant
+           brock : 
+          brodie : brodee, brody
+           brice : bryce
+           bruce : bruse
+           byron : 
+
+            cade : 
+            cain : 
+           caleb : 
+          callum : 
+          calvin : cal
+         cameron : 
+        campbell : cambell
+          carlin : 
+           casey : 
+           cecil : cec, cece
+          cedric : cedrick, sedrick
+         charles : carl, carle, carlo, carlos, charley, charlie, chas,
+                   chick, chuck, karl, karlis
+         chester : ches, chet
+       christian : christiaan, kristian, krystian
+     christopher : chris, cristoforo, kris, kristofer, kristopher
+           chase : 
+          ciaran : 
+           clain :
+           clark : clerk
+          claude : claud, claudio
+         clement : clem, clemence, clements
+        clifford : clif, cliff, cliford
+            coby : 
+             col : 
+           colin : 
+          connor : 
+          conrad : cort, konrad
+          cooper : 
+           corey : 
+       cornelius : corneilious, cornelious
+          curtis : curt, kurt, kurtis
+
+          daniel : dan, danial, dannie, danny, daniele, danjel
+           dante : 
+           darby : derby
+          darcie : darcy
+          darryl : darlene, darrell, darryle, daryl
+          dakota : 
+            dale : 
+          damien : 
+           david : dave, davie, davy, taffy
+          deakin : deakyn
+            dean : daen
+          declan : declen
+          dennis : denis, denney, dennie, denny, denys, dion
+         derrick : derek, dirk
+           devan : 
+         dimitri : dimitrios, demetrios, demetrius, demitrios, dimitr,
+                   dimitry
+         dominic : dom
+          donald : don, donnie, donny
+         douglas : doug, douglass, dugald
+           dylan : dillon
+
+            earl : errol
+          edward : ed, edd, eddie, eddy, edgar, edmond, edmund, eduardo,
+                   edw, edwards, edwark, edwin, ned, ted, teddie, teddy
+            eden : 
+          elbert : elbie
+          elijah : eli, elias, ellis, ely
+            elki : 
+           elton : 
+            emil : emilio
+        emmanuel : emanuel, emanuele, emanuelle, mannie, manny
+           emmet : 
+         erasmus : ras
+            eric : erik
+          ernest : earnest, earnie, ern, ernie, ernst, erny
+           erwin : irwin
+           ethan : 
+            evan : evans, ewan, ewen, owen
+         everett : ev
+
+          fergus : 
+          finlay : finley
+            finn : 
+         finnbar : 
+       fitzerald : fitch, fitz
+             flo : 
+         florian : floria
+           flynn : 
+         francis : fannie, fanny, fran, frances, francesco,
+                   francie, francisco, francy, frank, franklin,
+                   frans, franz
+       frederick : federico, freddie, freddy, frederich, frederikus,
+                   fredrick, friedrich, frierich
+          fraser : 
+            fynn : 
+
+         gabriel : gabby, gabe, gabriele, gabrile, gae, gai, gale, gay
+           garth : gart
+            gary : garrie, garry
+        geoffrey : gefery, geff, geffrey, geof, geoferry, geoff,
+                   geoffery, geoffori, geoffory, geoffre, geoffry,
+                   geofrey, godfrey, jefery, jeff, jefferey, jefferie,
+                   jeffery, jefforey, jeffory, jeffre, jeffree, jeffrey,
+                   jeffreys, jeffries, jeffry, jeof, jeoffrey
+          george : giorgio, jeorje, jorge
+          gerard : gerald, geraldine, geraud, gerry, giraldo, jerard,
+                   jerry
+         gilbert : gil, gilberto, gill
+          gianni : 
+          gordon : gordie, gordy
+          graham : graeme, grahame
+         gregory : gredory, greg, gregery, gregg, greggory, gregor,
+                   gregorie, gregorio, gregorius, greigory
+         grayson : 
+         griffin : 
+
+          hamish : 
+          harley : 
+        harrison : 
+          harvey : 
+          hayden : 
+           heath : 
+        heinrich : heindrich, hendrick
+           henry : enrico, hal, hank, harold, harrie, hari, harry, henrey
+         herbert : herb, herbie, herby
+          herman : herm
+            howe : howell
+          hubert : huey, hugh, hughey, hughie, hugo, uberto, ugo
+          hudson : 
+          hunter : 
+
+             ian : aian, ean, eoin, eon, iain
+            igor : igors
+           iliya : ilja
+           isaac : izaac,ike, isak
+          isaiah : 
+            ives : yves
+
+           jacob : cob, giacobo, giacomo, iacovo, jacobe, jacobs,
+                   jake, jakob, jekabs, jacobie, jaykob
+           james : giuseppi, jamie, jas, jim, jimmie, jimmy
+           jason : jay, jaxson
+          jeremy : geramy, jerome, jeremiah
+            john : giovanni, ivan, jac, jack, jacques, jaques,
+                   johnni, johnnie, johnny, jon
+           jaden : jayden
+          jaggah : 
+          jaiden : jai
+          jairus : 
+           jared : jarod, jarred, jarrod, jarryd
+          jarvis : 
+          jasper : 
+          jassim : 
+           jaxin : 
+           jayde : 
+            jean :  
+             jed : jett
+           jesse : 
+            jock : 
+            joel : 
+        jonathon : jonah  johnathan, johnathon, jonathan, jonathon, 
+          jordan : 
+            jory : 
+          joseph : fifi, giuseppe, joe, joey, joie, jos, josef,
+                   joszef, jozef
+          joshua : josh
+          julian : jule, jules, julio, julius, jullianne
+           judah : 
+          jurgen : yeurgen, yurgen
+          justin : 
+             jye : 
+
+            kade : 
+           kadin : 
+             kai : ky, kye
+            kale : 
+           kaleb : 
+            kane : kayne
+          kayden : 
+          kazuki : 
+          keaton : 
+          keegan : 
+         kenneth : 
+           kerry : carey, cary, kerri
+           kevin : kevan, keven, kevern
+          kieran : kieren
+            kobe : 
+           koben : 
+            kody : 
+    konstantinos : 
+          kristo : 
+           kydan : 
+            kyle : 
+           kynan : 
+
+         lachlan : 
+        lancelot : lance
+          latham : 
+        lawrence : lannie, larry, lars, lary, laurance, laurence,
+                   laurens, laurenz, laurie, lawrie, lawry, lorence,
+                   lorenz, lorrie, lourence, lourens
+         lazarus : laz
+          lawson : 
+             lee : leigh
+         leonard : len, lenard, lenn, lennard, lennie, lenny, leo,
+                   leon, leonardo, leonhard, leone
+           leroy : roi, roy
+          leslie : les, leslee, leslei, lesleigh, lesley, lesly
+          lester : leicester, leister
+           lewis : aloysius, lew, lodovico, lou, loui, louis, ludwig,
+                   luigi, levi
+            liam : 
+
+         lochlan : 
+           logan : 
+           lucas : lic, luca, luka, lukas, luke, luc, lucas, lucian,
+                   luciano
+          lynton : 
+
+       mackenzie : 
+       mackinley : 
+         maconal : 
+       macormack : 
+          magnus : 
+         malakai : 
+         malcolm : calum, mal, malcom, malcombe
+          marcus : markus
+          marius : mariusz
+            mark : marco, marc, marko
+          martin : marten, martino, marty
+           mason : 
+         matthew : mat, matheus, mathew, mathews, mathias, matt, matteo,
+                   mattheus, mattheo
+         maurice : maurits, morey
+         maxwell : max, maxim, maximillan, maxin
+         michael : micah
+         millane : 
+        mitchell : 
+        mohammad : mohamad, mouhammad
+          morris : 
+
+          nathan : 
+            neal : gneil, gniel, neale, neil, neill, niels,
+         neville : nevil, nevile
+        nicholas : claus, cole, klaus, nic, nichalas, nick, nicklaas,
+                   nicklas, nicol, nicolaas, nicolas, nicolhas, nicolo,
+                   nikolaus
+            noel : noelland, nolan, nowell
+            noah : 
+          norman : norm, normand
+
+        oakleigh : 
+          oliver : olie, ollie
+           oscar : ossie, oskar
+
+         patrick : paddy, pat
+            paul : pablo, paolo
+         pearson : 
+           peter : pedro, pete, petee, pieter, petro, piedro, perre, pietro
+           percy : perc, perceval, percival, piesse
+         phillip : felip, felipa, filip, filippo, phil, philip, philipp,
+                   philipps, phillipp, phillipps, phillips
+         phoenix : 
+            pino : 
+
+           quinn : 
+
+           ralph : raoul, rolf
+        randolph : randall, randell, randolf, randy
+         raphael : ralphael, raphel, raph
+         raymond : rae, raemonde, raman, ramie, ramon, ramond, ray,
+                   raye, raymand, raymen, rayment, raymon, raymonde,
+                   raymont, raymund, rey, reymond
+        reginald : reg, reggie, regginald, reginal, reginold, regional,
+                   reinald, renato, rheinholdt, rignold, rinaldo
+           reece : 
+           reeve : 
+          reuben : ruben
+           rhett : 
+            rhys : 
+         richard : rich, dick, reich, ricard, riccardo, richards,
+                   richerd, richie, rick, ritch, ritchad, ritchard,
+                   ritchie
+          ridley : 
+           riley : ryley
+          robert : bob, bobby, rob, robb, robbie, robby, roberto, robt,
+                   rupert
+           robin : robbin
+          rodney : rod
+           roger : rodger, rog
+           rohan : 
+           ronan : 
+          roland : orlando, roalan, rolando, rolland, rollie, rollo,
+                   rolly, rowland
+          ronald : ron, ronie, ronney, ronnie, ronny
+            rory : 
+          rourke : 
+         rudolph : dolf, rolph, rud, ruddy, rudi, rudolf, rudolfo, rudy
+         russell : rusell, russ, russel, russyl, rustell
+            ryan : 
+
+          sachin : 
+             sam : 
+          samuel : samie, sammy, samual, samir
+           scott : 
+          seamus : 
+       sebastian : seb
+            seth : 
+           shane : shaun, shawn, sean
+         shannon : 
+       siegfried : seigeried, seigried, siegfried, siegried, sigfried
+        siegmund : sigmund, zigmund
+          sidney : sid, siddney, syd, sydenham, sydmin, sydney
+       silvester : sylvester
+           silas : 
+           simon : simeon, simmie
+         solomon : sol
+         spencer : 
+           spyke : 
+         stanley : stan
+          stelio : 
+         stephen : steven, etienne, stefano, stephen, stephene, stevan,
+                   steve, stiven, stephan, stefan, stefen
+        stirling : 
+          stuart : stew, steward, stewart, stu
+
+             tai : 
+           talan : 
+           tanar : 
+          tasman : 
+            tate : 
+        terrence : terance, terence, terrance, terrens, terry
+        thaddeus : tad, taddeo
+        theodore : theo, theodor, theodorius, theodorus, theodourus,
+                   theofilos, theophilus
+          thomas : tam, tom, tomasco, tomasz, tommie, tommy, tomme
+            thor : tor
+         timothy : tim, timmy, timotheo
+          tobias : tobie, toby
+            todd : 
+          travis : traver, travers
+           trent : 
+          trevor : 
+            trey : 
+         tristan : 
+            troy : 
+              ty : 
+          taylor : tayler, tyler
+           tynan : 
+           tyron : tyrone
+
+        valentin : valda, valentine, valentino
+        valerian : velerijan
+          victor : vic, vittorio
+         vincent : vin, vince, vincente, vinnie
+
+            wade : 
+        walentin : walenty
+         wallace : wal, walch, walley, wallie, wallis, wally, walsh,
+                   welch, welsh
+          walter : gualtiero, walt, wat
+         warwick : warrick
+          wesley : wes, wess, westleigh, westley
+         william : bill, billie, billy, guglielmo, vassileos, wiley,
+                   wilheim, wilhelm, wilie, wil, will, willem, willi, willy
+          wilson : 
+        winifred : winnie, winny
+        woorward : woodworth
+
+          xavier : 
+        xepheren : 
+
+          yousef : youssef
+            yvan : 
+
+         zachary : zac, zach, zack, zachariah, zakariah
+            zane : 
+          zarran : 
+        zebediah : 

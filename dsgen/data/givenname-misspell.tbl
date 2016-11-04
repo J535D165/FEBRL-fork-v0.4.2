@@ -1,0 +1,656 @@
+# =============================================================================
+# givenname-misspell.tbl - Lookup-table for given name misspellings used for
+#                          the database generator
+#
+# - The word left of the colon is the correct spelling, right of the colon is
+#   a list of one or more (comma separated) misspellings
+#
+# Last update: 17/11/2004, Peter Christen
+# =============================================================================
+
+# Female given names
+
+         aaliyah : alaiyah
+         abigail : abbey, abbie, abby, abii
+        adelaide : addie, addy, adel, adela, adele, adeline, adelle
+         adriana : adrienne
+           agnes : aggie
+          aileen : eileen, ileen
+      aikaterina : akaterina
+           aimee : aime
+         ainsley : ainsly
+           alana : allana, alanna, allanah, alannah
+         aleesha : aleisha, alessia, alysha, alyssa
+          alexis : alexys
+       alexandra : alexa, alexia, alexanda, alexanderia,
+                   alexandria, sandie, sandra, sandy, alessandra,
+                   alessandria, lexie
+           alice : alia, alicia
+           alisa : alisha, alissa, alison, allie, allison, aliza
+          amalia : amalie, amelie, amelia
+       anastasia : stacia
+          amanda : amy, mandy
+          andrea : andie
+           aneka : anika
+          angela : angel, angelo, angie, angelica, angelina
+           anita : agneta, neta, netta, nita
+            anna : anette, ann, anne, annette, annie, anny
+       annabella : annabel, annabelle
+        annalise : anneliese
+            arki : arky
+          ashley : ashleigh, ashlee, ashlie
+          audrey : audie
+            ayla : aila
+
+          bailey : bailee
+         barbara : bab, babb, babs, barb, barbe, barbie, barbra
+        beatrice : bea, bee, trixie, trixy
+         belinda : linda, lindy, lydie, lynda
+         beverly : bev, beverley
+          bonita : bonnie, bonny
+          breana : breeanne, brianna
+          breony : briony
+         bridget : biddy, brigette
+        brigitte : brigitta, birgit, birgitte, birgitta
+         bronwyn : bronvyn, bronwin
+
+        campbell : cambell
+         camille : camilla
+          carina : cara, kara, karen, karin, karina
+           carla : carly, karla karly
+          carmen : karmen
+           casey : kaysey, kasey
+          carmel : carmela
+           carol : carel, carole, carolina, caroline, carollyn,
+                   carolyn, carrie, caryl, karol, ocarroll
+       cassandra : cassie, cassidy
+       catherine : caitlin, caitlyn, caterina, cath, cathie, cathline, cathy,
+                   catriona, kate, kath, katherine, kathleen, kathlyn,
+                   kathrine, kathryn, kathy, katie, katrina, katy, kay,
+                   kaye, kit, kitty, katharine, katelin, katelyn
+         cecilia : cecelia, celia, cissie, sissie
+       chantelle : chantel, shantal
+         charlee : charli
+        charlize : charlise
+       charlotte : carlotta, lottie, lotty
+         chelsea : chelsie
+        chevonne : cheyonne
+       christine : christina, cristina, kirsten, kristeen, kristin,
+                   kristen, krystin kristina, kristine, tina, tine
+          claire : clare, chiara, clair, clara, clarinda
+         claudia : claudine
+         colleen : callie, collie
+       constance : connie, constanza
+     constantine : con, constantin, konstantin, konstantine, konstantyn
+            cora : corie, corrie
+         coralie : coral
+        courtney : courtny
+         crystal : cristal
+
+        danielle : daniella
+          danika : danica
+          darcie : darcy
+           dayna : daina
+         deborah : deb, debbie, debby, debra
+           della : dela
+           demie : debie
+          denise : denice, denyse
+          desire : desi, desiree
+        destynii : destiny
+           diane : deana, deanna, dee, diana, dianna, dianne
+         dolores : delores, lola, lolita
+       domenique : dominic
+         dorothy : doll, dollie, dolly, dora, doreen, dorie, doris,
+                   dorotea, dorothea, dorthie, dot, dottie, dotty
+
+          eartha : herta, hertha
+          ebonie : eboni, ebony
+         eleanor : elaine, eleanora, eleanore, leanora, lenore, leonora,
+                   nora, norah, elana, eleni
+       elizabeth : babette, bess, bessie, bessy, bet, beth, betsey,
+                   betsy, bett, bette, bettie, bettina, betty, bettye,
+                   elisa, elisabeth, elisabetta, elise, elissa, eliz,
+                   eliza, elize, elspeth, libby, lisa, lisbeth, lisette,
+                   lissa, liz, liza, lizabeth, lizbeth, lizzie, lizzy,
+                   lyssa, elisha, bethanie, bethany
+        ellouise : eloise, elysse
+            elsa : ella, elle, ellen, ellie, elsie, elzie, elli, elly,
+                   nell, nellie
+         emerson : emmerson
+           emily : em, ema, emelie, emeline, emilia, emilie,
+                   emma, emmeline, emmie, emiily
+           erica : erika
+            erma : irma
+       esmerelda : esme
+         estelle : stella
+          esther : essie, ester, etta, ettie, etty
+          eugene : eugen, eugenia, eugenie, eugeniusz, eugenusz, gene
+          eunice : eunie
+        euphemia : effie, effy, eufemia
+        eustacia : stacey, stacie
+          evelyn : eva, eve, eveline, evie, evangelia
+
+           faith : fay, faye
+        felicity : felicia
+        florence : fiorenza, florrie, flossie
+          france : ffrance
+         francis : fannie, fanny, fran, frances, francesca,
+                   francie, francine, francy, frannie
+       frederica : fredericca
+         fyynlay : fynlay
+
+       gabriella : gabrielle
+         georgia : georgina, georgie
+            gail : gayle
+        gertrude : gert, gertie, trudie, trudy
+         gillian : jillian, jilian, gilian, jill
+         giorgia : jorja
+          gladys : glad, gwladys
+         glenice : glen, glenis, glenn, glenyce, glenys
+           golda : goldie, goldy
+           grace : gracie, grais
+       gwendolyn : gwen, gwenda, gwendaline, gwendoline, gwendolyne,
+                   gwendolynne
+        gwenneth : gweneth, gwenith, gwenyth, gwyn, gwyneth
+           gytha : githa
+
+           hanna : hana, hanah, hannah
+          hayley : haylee
+          helena : helen, elena, helene, hellen
+       henrietta : harriet, hattie, hendrika, henriette, hettie,
+                   hetty, netty
+           hilda : hilde, hildegarde
+           holly : hollie
+
+             ida : ada, aida
+         indiana : india, indyana
+           irene : rena, rene, rennie
+          isabel : bel, bella, belle, isabella, isabelle, isobel,
+                   isobelle, ysobel
+
+         jacinta : jacynta
+      jacqueline : jackie, jacquline
+           jaime : jaimee, jamilla
+            jana : yana
+          jasmin : jasmine, jasmyn, yasmin
+           jayde : jade
+            jazz : jaz
+           jemma : gemma
+            jane : giovanna, jan, janelle, janet, janette, janice,
+                   janiece, janine, janis, janne, jannette,
+                   jeanette, jeanne, juanita
+        jennifer : jen, jenn, jenna, genevieve, jenny
+          jemima : jayme, mimi
+           jinni : jnni
+         jessica : jess, jessie, jettie
+          joanna : joan, joanne, johan, johanne
+          jordan : jordyn
+         joselyn : jaslyn
+       josephine : giuseppa, josie
+           joyce : jo, jocelyn, joy
+          judith : jody, judie, judy
+           julia : giulia, giulietta, julie, juliet, julietta, july,
+                   juliana, giuliana
+
+         kaitlin : kaitlyn
+         karissa : carissa
+           karla : karlee, karli
+           kayla : kyah, koula, keahley
+          keeley : keelin, keely
+           kelly : kelli, keli, kely, kaela, kailey, kalli, kallie
+          kelsea : kelsey, kelsy, kelsye
+        kimberly : kimberley, kim, kimbley, kimm
+            kira : kiara, kiera, kiria, kierra, kirra, kirrah, kyra,
+                   kyrra, kyrah, keira
+           kylie : kylee
+
+           laura : lara, laurel, lauren, loren, lorenza, loretta
+             lee : lahey, lea, leah, leigh
+           leila : leilia, lela, lila, layla
+         letitia : leticia, letta, lettice, lettitia, letty, tish
+         lillian : lia, lil, lili, lilian, lillie, lilly, lily,
+                   lillianna, liana
+         lindsey : lindsay, linsay, linsey, lynnsay
+        lorraine : loraine
+          louise : lois, louisa, luisa, luise, lulu
+           lucia : luzia
+            lucy : cindy, lucie, lucile, lucille, lucinda
+         lynette : linette, lyn, lynn, lynne
+
+           mabel : mable, maybelle
+           macey : macy
+       mackenzie : mackenzi
+        maddison : madison, madisen, maddisen
+        madeline : madalyn, madelaine, madeleine, madelina, magda,
+                   maud, madelyn
+        makenzie : makenzi
+        marcella : marcia, marcie, marsha
+        margaret : greta, gretal, madge, maggi, maggie, maisie, marg,
+                   margareta, margarita, marge, margery, margie, margo,
+                   margorie, margot, marguerita, marguerite, margurita,
+                   marj, marjorey, marjorie, marjory, meg, miriam, peg,
+                   peggie, peggy, reta, rita
+          marian : mariana, marianna, marianne, marien, marijan, marion,
+                   maryan
+         marilyn : marylon, marylyn, merrilyn
+          marina : marinna
+         marleen : marlee, marlene, marleigh, marley
+          martha : marta
+            mary : mame, mamie, maree, maria, marie, marya, moira,
+                   moyra, mhary
+        mathilda : matilda, mathilde, tillie, tillis, tilly
+           maude : madie
+         maureen : maurine
+             may : mae
+            maya : maia
+          meagan : megan, meggie
+         melinda : mel, melanie
+         melissa : mellissa
+        meredith : merry
+           merle : merrill, meryl
+             mia : mya
+            mira : myra
+        michaela : micaela, mikaela, mikayla, mikhaili, mikhayla
+        michelle : michele
+          millie : milli, milly
+           molly : mollie, moly, moli
+         monique : monic
+         montana : montanna
+           myrna : merna, moina, morna, moyna
+
+           nancy : nan, nance, nancye, nanette
+         natalie : nat, natalia, natalee, nathalia, nathalie
+         natasha : nathasa
+        natassia : nathassia
+          nicole : nicola, nichola, nichole, nicky, nikki, nicoletta
+         noeleen : noelene, noelle, nola
+          noreen : norine
+
+          olivia : livia, livvie, olive, olivi, olly
+
+           paige : page
+          pamela : pam
+         pascale : pascal, pasquale
+        patricia : patsy, pattie, patty
+           paula : paola, paolina, pauline
+        penelope : penny
+           pearl : pearlie
+            peta : petra
+           petra : peta
+         phillis : phylliss, phyllys
+           polly :  pollyanna
+       priscilla : cilla, pris
+        prudence : prue
+
+         rachael : rachel, raquel, raquelle, rachele
+         raelene : wray, raylene
+         rebecca : becky, rebekah
+           regan : reegan, reganne
+          renata : renee, renai
+          rhonda : rhona, roma
+         reilley : rilly, reily, ryleh
+         roberta : bobbie
+           robin : robyn, robyne, robynne
+           ronda : rona
+            rose : rosa, rosalie, rosalind, rosalinda, rosalyn,
+                   rosamond, rosamund, roseanna, rosehannah, roseline,
+                   rosetta, rosie, rosina, rositta, rossetta
+        rosemary : rosemarie
+            ruby : rubie
+            ruth : ruthie
+
+           saige : sage
+           sally : salli
+        samantha : sam
+           sarah : saara, sara, sadie, zara, zarah, zarlia
+          sascha : sarsha, sasha
+        savannah : savanna
+            shae : shai
+         shakira : schkirra, shakirah
+           shana : sana, shena, shenae, shona
+        sharlene : charlene
+          sharon : sharron, sherry
+          shelby : shelbey
+          sheila : sheilagh, shiela
+          sheryl : cheryl
+         shirley : shirlie
+          sienna : seanna
+          simona : simone
+            skye : sky
+           sonja : sonia
+          sophie : sofia, sofie, sophia
+       stephanie : stefanie,
+           susan : su, sue, susanna, suse, susie, suzanne, suzie
+         sybella : sibilla, sybille, sybilla, sibille
+          sylvia : silvia, sylvie
+
+          taalia : talia, taliah, talyah
+          tahnee : tahni
+          tamara : tammie, timara
+            tara : tarah
+          tarnee : tarne
+           tayah : taya
+          taylor : tayla, taylah, tylah, tyler
+           tegan : teagan, teegan
+         tenille : teneille
+         theresa : teresa, tess, tessa, therese, tracie, tracy
+         tiahana : tia, tiahnee
+         tiffany : tiff
+            tori : tory
+         trinity : triniti
+
+         valerie : val, valeria, vallie
+         vanessa : nessi
+          vianca : biance
+        victoria : vicki, vickie, vicky, vittoria
+          violet : vi, viola
+        virginia : ginny
+          vivian : viv, vivianne, vivien, vivienne
+
+           wanda : wendy
+      wilhelmina : mindy, minnie, vilma, wilma
+
+# Male given names
+
+           aaron : aron, arran, haroun
+         abraham : abe, abram, abramo, ibrahim
+            adam : adamo, addam, addamo
+          adolph : adolf, adolfo
+          adrian : adriano, adrien, hadrian
+           aidan : aiden, aidyn
+            alan : alano, albie, alen, allan, allen
+        alastair : alister, allister, alistair, allistair
+          albert : alberto, bert, bertie, burt
+       alexander : alec, aleksandar, aleksander, aleksandr, alessandro,
+                   alexandre, alexandros, alexandrovich, alexi,
+                   alexnder, alick, lexi, zandra
+          alfred : alf, alfee, alfie, alfreda, alfredo, fred, fredo, freddo
+        alphonso : affie
+           alvin : alveen, alwine, alwyn
+          andrew : andre, andreas, andy, drew
+           angus : gus
+         anthony : anthon, anthoney, anthoni, anthonie, anthonious,
+                   anthonius, anthoy, antionus, anton, antone, antoni,
+                   antonio, antony, toni, tony
+       archibald : arch, archie, archiebald, archer
+          arnold : arney, arnie
+           arren : aron, aren
+          arthur : art, artie, artur, arturo, athur, auther, autther
+       augustine : agosto, augie, august, auguste, augustus, austen,
+                   austin
+        aurelius : aurelio
+            axel : aksel
+
+          bailey : bailley
+        barnabas : barnaby, barnie, barny
+           barry : barrie
+     bartholomew : bart, barth, bartie, bartolomeo
+           basil : basileus, vassily
+          barkly : barkely
+          bayley : bailey
+        benedict : benedetto, benito
+        benjamin : ben, benji, benjy, bennie
+         bernard : barnard, barney, benardus, berhardt, bernardo,
+                   bernhard, bernhardt, bernie, berny, birney
+         bertram : bertrand
+           bjorn : bourne
+          blaize : blaze
+           blake : blayke
+         bradley : brad
+        brambley : bramley
+         braiden : braedon, brayden, braydon, bryden, brydon
+         brendan : brandon
+           brett : bred, bratt
+           brian : brien, briant, bryan, bryant
+          brodie : brodee, brody
+           brice : bryce
+           bruce : bruse
+
+            cain : cayn
+          calvin : cal
+        campbell : cambell
+           cecil : cec, cece
+          cedric : cedrick, sedrick
+         charles : carl, carle, carlo, carlos, charley, charlie, chas,
+                   chick, chuck, karl, karlis
+         chester : ches, chet
+       christian : christiaan, kristian, krystian
+     christopher : chris, cristoforo, kris, kristofer, kristopher
+           clark : clerk
+          claude : claud, claudio
+         clement : clem, clemence, clements
+        clifford : clif, cliff, cliford
+           colin : collin
+          connor : conner
+          conrad : cort, konrad
+           corey : cory
+       cornelius : corneilious, cornelious
+          curtis : curt, kurt, kurtis
+
+          daniel : dan, danial, dannie, danny, daniele, danjel
+           darby : derby
+          darcie : darcy
+          darryl : darlene, darrell, darryle, daryl
+           david : dave, davie, davy, taffy
+          deakin : deakyn
+            dean : daen
+          declan : declen
+          dennis : denis, denney, dennie, denny, denys, dion
+         derrick : derek, dirk
+         dimitri : dimitrios, demetrios, demetrius, demitrios, dimitr,
+                   dimitry
+         dominic : dom
+          donald : don, donnie, donny
+         douglas : doug, douglass, dugald
+           dylan : dillon
+
+            earl : errol
+          edward : ed, edd, eddie, eddy, edgar, edmond, edmund, eduardo,
+                   edw, edwards, edwark, edwin, ned, ted, teddie, teddy
+          elbert : elbie
+          elijah : eli, elias, ellis, ely
+            emil : emilio
+        emmanuel : emanuel, emanuele, emanuelle, mannie, manny
+           elton : elten
+         erasmus : ras
+            eric : erik
+          ernest : earnest, earnie, ern, ernie, ernst, erny
+           erwin : irwin
+            evan : evans, ewan, ewen, owen
+         everett : ev
+
+          fergus : ferguss
+          finlay : finley
+       fitzerald : fitch, fitz
+         florian : floria, flo
+           flynn : flinn
+         francis : fannie, fanny, fran, frances, francesco,
+                   francie, francisco, francy, frank, franklin,
+                   frans, franz
+       frederick : federico, freddie, freddy, frederich, frederikus,
+                   fredrick, friedrich, frierich
+
+         gabriel : gabby, gabe, gabriele, gabrile, gae, gai, gale, gay
+           garth : gart
+            gary : garrie, garry
+        geoffrey : gefery, geff, geffrey, geof, geoferry, geoff,
+                   geoffery, geoffori, geoffory, geoffre, geoffry,
+                   geofrey, godfrey, jefery, jeff, jefferey, jefferie,
+                   jeffery, jefforey, jeffory, jeffre, jeffree, jeffrey,
+                   jeffreys, jeffries, jeffry, jeof, jeoffrey
+          george : giorgio, jeorje, jorge
+          gerard : gerald, geraldine, geraud, gerry, giraldo, jerard,
+                   jerry
+         gilbert : gil, gilberto, gill
+          gordon : gordie, gordy
+          graham : graeme, grahame
+         gregory : gredory, greg, gregery, gregg, greggory, gregor,
+                   gregorie, gregorio, gregorius, greigory
+         griffin : gryffin
+
+          hayden : haiden
+        heinrich : heindrich, hendrick
+           henry : enrico, hal, hank, harold, harrie, hari, harry, henrey
+         herbert : herb, herbie, herby
+          herman : herm
+            howe : howell
+          hubert : huey, hugh, hughey, hughie, hugo, uberto, ugo
+
+             ian : aian, ean, eoin, eon, iain
+            igor : igors
+           iliya : ilja
+           isaac : izaac,ike, isak
+            ives : yves
+
+           jacob : cob, giacobo, giacomo, iacovo, jacobe, jacobs,
+                   jake, jakob, jekabs, jacobie, jaykob
+           james : giuseppi, jamie, jas, jim, jimmie, jimmy
+           jason : jay, jaxson
+          jeremy : geramy, jerome, jeremiah
+            john : giovanni, ivan, jac, jack, jacques, jaques,
+                   johnni, johnnie, johnny, jon
+           jaden : jayden
+          jaiden : jai
+           jared : jarod, jarred, jarrod, jarryd
+          jarvis : jervis
+             jed : jett
+           jesse : jess
+        jonathon : jonah  johnathan, johnathon, jonathan, johnathon
+          joseph : fifi, giuseppe, joe, joey, joie, jos, josef,
+                   joszef, jozef
+          joshua : josh
+          julian : jule, jules, julio, julius, jullianne
+          jurgen : yeurgen, yurgen
+
+             kai : ky, kye
+            kale : kayle
+            kane : kayne
+           kerry : carey, cary, kerri
+           kevin : kevan, keven, kevern
+          kieran : kieren
+            kobe : cobe
+           koben : coben
+            kody : cody
+          kristo : christo
+
+        lancelot : lance
+        lawrence : lannie, larry, lars, lary, laurance, laurence,
+                   laurens, laurenz, laurie, lawrie, lawry, lorence,
+                   lorenz, lorrie, lourence, lourens
+         lazarus : laz
+             lee : leigh
+         leonard : len, lenard, lenn, lennard, lennie, lenny, leo,
+                   leon, leonardo, leonhard, leone
+           leroy : roi, roy
+          leslie : les, leslee, leslei, lesleigh, lesley, lesly
+          lester : leicester, leister
+           lewis : aloysius, lew, lodovico, lou, loui, louis, ludwig,
+                   luigi, levi
+
+           lucas : lic, luca, luka, lukas, luke, luc, lucian, luciano
+
+       mackenzie : makenzie
+       mackinley : makinley
+         malcolm : calum, mal, malcom, malcombe
+          marcus : markus
+          marius : mariusz
+            mark : marco, marc, marko
+          martin : marten, martino, marty
+         matthew : mat, matheus, mathew, mathews, mathias, matt, matteo,
+                   mattheus, mattheo
+         maurice : maurits, morey
+         maxwell : max, maxim, maximillan, maxin
+         michael : micah
+        mohammad : mohamad, mouhammad
+
+            neal : gneil, gniel, neale, neil, neill, niels,
+         neville : nevil, nevile
+        nicholas : claus, cole, klaus, nic, nichalas, nick, nicklaas,
+                   nicklas, nicol, nicolaas, nicolas, nicolhas, nicolo,
+                   nikolaus
+            noel : noelland, nolan, nowell
+          norman : norm, normand
+
+          oliver : olie, ollie
+           oscar : ossie, oskar
+
+         patrick : paddy, pat
+            paul : pablo, paolo
+           peter : pedro, pete, petee, pieter, petro, piedro, perre, pietro
+           percy : perc, perceval, percival, piesse
+         phillip : felip, felipa, filip, filippo, phil, philip, philipp,
+                   philipps, phillipp, phillipps, phillips
+
+           ralph : raoul, rolf
+        randolph : randall, randell, randolf, randy
+         raphael : ralphael, raphel, raph
+         raymond : rae, raemonde, raman, ramie, ramon, ramond, ray,
+                   raye, raymand, raymen, rayment, raymon, raymonde,
+                   raymont, raymund, rey, reymond
+        reginald : reg, reggie, regginald, reginal, reginold, regional,
+                   reinald, renato, rheinholdt, rignold, rinaldo
+          reuben : ruben
+         richard : rich, dick, reich, ricard, riccardo, richards,
+                   richerd, richie, rick, ritch, ritchad, ritchard,
+                   ritchie
+           riley : ryley
+          robert : bob, bobby, rob, robb, robbie, robby, roberto, robt,
+                   rupert
+           robin : robbin
+          rodney : rod
+           roger : rodger, rog
+          roland : orlando, roalan, rolando, rolland, rollie, rollo,
+                   rolly, rowland
+          ronald : ron, ronie, ronney, ronnie, ronny
+         rudolph : dolf, rolph, rud, ruddy, rudi, rudolf, rudolfo, rudy
+         russell : rusell, russ, russel, russyl, rustell
+
+          samuel : samie, sammy, samual, samir
+       sebastian : seb
+           shane : shaun, shawn, sean
+       siegfried : seigeried, seigried, siegfrid, siegried, sigfried
+        siegmund : sigmund, zigmund
+          sidney : sid, siddney, syd, sydenham, sydmin, sydney
+       silvester : sylvester
+           simon : simeon, simmie
+         solomon : sol
+         stanley : stan
+         stephen : steven, etienne, stefano, stephene, stevan,
+                   steve, stiven, stephan, stefan, stefen
+          stuart : stew, steward, stewart, stu
+
+        terrence : terance, terence, terrance, terrens, terry
+        thaddeus : tad, taddeo
+        theodore : theo, theodor, theodorius, theodorus, theodourus,
+                   theofilos, theophilus
+          thomas : tam, tom, tomasco, tomasz, tommie, tommy, tomme
+            thor : tor
+         timothy : tim, timmy, timotheo
+          tobias : tobie, toby
+            todd : tod
+          travis : traver, travers
+         tristan : trystan
+            troy : troi
+          taylor : tayler, tyler
+           tyron : tyrone
+
+        valentin : valda, valentine, valentino
+        valerian : velerijan
+          victor : vic, vittorio
+         vincent : vin, vince, vincente, vinnie
+
+        walentin : walenty
+         wallace : wal, walch, walley, wallie, wallis, wally, walsh,
+                   welch, welsh
+          walter : gualtiero, walt, wat
+         warwick : warrick
+          wesley : wes, wess, westleigh, westley
+         william : bill, billie, billy, guglielmo, vassileos, wiley,
+                   wilheim, wilhelm, wilie, wil, will, willem, willi, willy
+        winifred : winnie, winny
+        woorward : woodworth
+
+          yousef : youssef
+            yvan : ivan
+
+         zachary : zac, zach, zack, zachariah, zakariah

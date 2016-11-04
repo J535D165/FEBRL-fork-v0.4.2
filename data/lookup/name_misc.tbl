@@ -1,0 +1,23 @@
+# =============================================================================
+# name_misc.tbl - Lookup-table for various name words
+#
+# Source: - NSW Health Department pattern and classification files
+#
+# Last update: 31/07/2002, Peter Christen
+# =============================================================================
+
+tag=<SP>  # Tag for separator elements
+             and : 
+              or : 
+        known as : kn as, kn, known
+
+tag=<BO>  # Tag for 'baby of' and similar sequences
+            baby : 
+         baby of : 
+        daughter : 
+     daughter of : 
+             son : 
+          son of : 
+
+tag=<NE>  # Tag for word 'nee' (born as) or surname or givenname (?)
+             nee : 

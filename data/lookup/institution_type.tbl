@@ -1,0 +1,73 @@
+# =============================================================================
+# institution_type.tbl - Lookup-table for institution words
+#
+# Source: - NSW Health Department pattern and classification files
+#
+# Last update: 1/11/2002, Peter Christen
+# =============================================================================
+
+tag=<IT>  # Tag for institution words
+
+ aboriginal reserve : 
+   aged care centre : aged care, centre for the age, centre for aged care,
+                      centre for the aged, centre for ag, aged care facilities
+            airport : aerodome
+         apartments : 
+           barracks : barrack, barack, baracks
+             bhouse : bh, board house, boarding house
+           brothers : 
+       caravan park : cara, carvn, cvp, caravn park, c park, c van,
+                      car park, caravan resort, van park, caratel, caravan par,
+                      carav, carav park, carvn park, cara park, cvan park
+             centre : center, centr, cntr, ctr
+             circus : crcs
+            college : 
+     comunitycentre : cc, comunity centre, comunity center, comunitycenter
+          community : cmnty
+            company : 
+       convalescent : convalescent centre, convalescent home,
+                      convalescent hospital
+        cooperative : coop, co-op
+       country club : 
+          detention : det, detn
+        distributor : dstr
+           district : dist
+ex services complex : 
+               gaol : goal, jail, prison
+     geriatric unit : 
+               home : h, hm, hme, hom, homes
+  home for the aged : home for the age
+           hospital : hos, hosp, hospice, hosptl, hsp, hsptl
+ hospital for women : 
+             hostel : host, hostl, hstel, hstl
+              hotel : hot, hotl, htel
+       incorporated : inc
+              jetty : jtty, jty
+            limited : ltd
+little sisters the poor : 
+              lodge : ldge, lodg
+               mall : mll
+       masonic home : masonic homes
+            mission : 
+           monastry : 
+              motel : mot, motl, mtel
+            nursing : 
+     nursing centre : nursing center
+       nursing home : nh, nhome, nrs, nrsg, nsg, nurs, nrsng hm,
+                      n h, nrs home, n home, nursing hom, nursing ho, nursing h
+        nurses home : nurses, nurses home, nurse home
+        proprietary : pty
+            retreat : rtt
+             rotary : rty
+ retirement village : ret village, masonic retirement village, retirement,
+                      ret vill, retirement home, retirement v, rv, gv,
+                      retiremen
+     shoppingcentre : shopping, shoppingcenter, shoppingtown,
+                      shopping center, shopping centre, shopping town
+          sanctuary : sanct, sanctury, sancurary, santuary
+            sisters : 
+              tower : twr
+         university : uni, univ, unvrsty
+              units : 
+            village : vil, vge, vill, villag, villg, vlg, vlge, vllg,
+                      villages, vlgs

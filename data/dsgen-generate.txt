@@ -1,0 +1,65 @@
+Data set generation details, PC 29/01/2007
+------------------------------------------
+
+Several data set series were being created, all having the same error
+characteristics, and all having data sets with sizes (number of
+records):
+
+1,000, 2,500, 5,000, 10,000, 25,000, 50,000, 100,000, 250,000, 500,000
+
+The following data set series were created (command line calling of
+generate.py program and it's parameters, with X the number of records
+as given above):
+
+Deduplication data sets:
+
+1) X/2 original records, X/2 duplicate records, one duplicate per
+   original record, maximum 1 modification per duplicate record and
+   maximum 1 modification per attribute:
+
+   python generate.py dataset_A_X.csv X/2 X/2 1 1 1 uniform
+
+2) 4X/5 original records, X/5 duplicate records, up to 3 duplicates
+   for an original record, maximum 1 modifications per attribute,
+   maximum 3 modifications per record, and 'zipf' distribution of
+   duplicate numbers.
+
+   python generate.py dataset_B_X.csv 4X/5 X/5 3 1 3 zipf
+
+3) 3X/5 original records, 2X/5 duplicate records, up to 9 duplicates
+   for an original record, maximum 3 modifications per attribute,
+   maximum 10 modifications per record, and 'zipf' distribution of
+   duplicate numbers.
+
+   python generate.py dataset_C_X.csv 3X/5 2X/5 9 3 10 zipf
+
+
+Linkage data sets:
+
+4) X/2 original records, X/2 duplicate records, one duplicate per
+   original record, maximum 1 modification per duplicate record and
+   maximum 1 modification per attribute:
+
+   python generate.py dataset_D_X.csv X/2 X/2 1 1 1 uniform
+
+5) 4X/5 original records, X/5 duplicate records, up to 3 duplicates
+   for an original record, maximum 1 modifications per attribute,
+   maximum 3 modifications per record, and 'zipf' distribution of
+   duplicate numbers.
+
+   python generate.py dataset_E_X.csv 4X/5 X/5 3 1 3 zipf
+
+6) 3X/5 original records, 2X/5 duplicate records, up to 9 duplicates
+   for an original record, maximum 3 modifications per attribute,
+   maximum 10 modifications per record, and 'zipf' distribution of
+   duplicate numbers.
+
+   python generate.py dataset_F_X.csv 3X/5 2X/5 9 3 10 zipf
+
+
+The linkage data sets will then be separated into one file containing
+all the original records and the other file all the duplicate records.
+File names will be:
+
+  dataset_D_org_X.csv
+  dataset_D_dup_X.csv

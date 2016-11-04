@@ -1,0 +1,26 @@
+# =============================================================================
+# level_type.tbl - Lookup-table for level type names
+#
+# Sources: - NSW Health Department pattern and classification files
+#          - US Postal Service Official Abbreviations
+#            http://www.usps.com/ncsc/lookups/usps_abbreviations.html
+#          - Address Component Abbreviations from AS.4590 - 1999
+#            (Australian Standard for Interchange of Client Information)
+#          - Added abbreviations from GNAF data dictionary
+#
+# Last update: 19/10/2007, Peter Christen
+# =============================================================================
+
+tag=<LT>  # Tag for level type words
+
+          basement : bsmnt
+             floor : fl
+            ground : 
+             level : lev, levl, lvel, lvl
+             lobby : 
+lower ground floor : lg
+         mezzanine : 
+          platform : pf
+            podium : pd
+           rooftop : rt
+upper ground floor : ug

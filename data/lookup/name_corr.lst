@@ -1,0 +1,50 @@
+# =============================================================================
+# name_corr.lst - Correction list for name component
+#
+# Source: - NSW Health Department pattern and classification files
+#
+# Last update: 31/10/2007, Peter Christen
+#
+# Entries in the file are of the form:
+#
+#          replacement := values
+#
+# where 'values' can be one word or character or a comma separated list of
+# words or characters. Each value will be replaced by the 'replacement'
+# string on the left side.
+# Both the replacement string and each of the value strings must be enclosed
+# in either single or double quotes.
+# =============================================================================
+
+# Remove characters and words from input
+             ' ' := '.', '?', '~', '_', ':', ';', '^', '=', ' n a ', '*',
+                    ' n/a ', ' n.a. ', '\', ' also ', ' name ', ' only ',
+                    ' abbrev ', ' initials ', ' unk ', ' unkn ',
+                    ' missing ', ' unknown '
+
+# Correct words and symbols
+         ' and ' := '+', '&'
+        ' baby ' := ' babe '
+     ' baby of ' := ' babyof ', ' babeof ', ' b/o ', ' b.o.'
+ ' daughter of ' := ' daughterof ', ' d/o ', ' d.o.'
+     '  son of ' := ' sonof ', ' s/o ', ' s.o.'
+    ' known as ' := ' knownas ', ' a.k.a. ', ' aka '
+           ' - ' := '-', '/'
+           ' ( ' := '<', '(', '[', '{'
+           ' ) ' := '>', ')', ']', '}'
+           ' | ' := '"', "'", '|'
+
+# Remove ' from o'brian etc
+            ' o' := " o'"
+            ' a' := " a'"
+            ' l' := " l'"
+            ' i' := " i'"
+            '-o' := "-o'"
+            '-a' := "-a'"
+            '-l' := "-l'"
+            '-i' := "-i'"
+
+# Correct roman numbers
+#                ' i ' := ' first '
+               ' ii ' := ' second '
+              ' iii ' := ' third '

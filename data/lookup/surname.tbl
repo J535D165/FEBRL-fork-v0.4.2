@@ -1,0 +1,311 @@
+# =============================================================================
+# surname.tbl - Lookup-table for surnames
+#
+# Sources: - NSW Health Department pattern and classification files
+#          - Various web sites with given name lists
+#
+# Last update: 31/07/2002, Peter Christen
+# =============================================================================
+
+tag=<SN>  # Tag for surnames
+
+       aitchison : acheson
+          aitken : aiken
+           aldis : aldous
+          almond : allmond
+          althea : thea
+           arden : ardie
+          arland : arley, arlie, arly
+           armen : armand
+          arnoud : arnout
+           avice : avis, awis
+
+         barclay : berkeley
+          baxter : bax
+          blythe : blithe
+        boleslaw : bolestlaw
+          bowden : bowen
+           boyle : oboyle
+            bree : obree
+           brice : bryce
+           brian : brien, briant, bryan, bryant, obrian, obrien, obryan
+         brinley : brindley
+        bruckner : brukner
+            burl : burlie
+         burrows : burroughs
+            bush : busch
+           byers : byas, byass
+           byrne : byrnes
+
+            cain : caine, cane, conn, kain, kahn, kon, okane, okeane
+       callaghan : callahan, ocallaghan
+         calvert : calvat
+        campbell : cambell
+             car : kaare
+        carlisle : carlile, carlyle
+          castle : cassel, cassell, kassel
+         chapman : chap
+          cletus : clete
+       cleveland : cleave, cleve
+           clyne : klein
+        coldbeck : colbeck
+         coleman : colman
+      concepcion : conchita
+         connell : oconnell
+          connor : conner, oconner, oconnor
+         corbett : corby
+            cosh : koch
+          cramer : kramer, kraymer, kremer
+       creighton : crichton
+           crowe : krogh
+          cruise : crews, kruse
+         cummins : cummings
+           cyrus : cy
+
+            dang : 
+        davidson : davison, davissen
+          davina : davida
+             dea : odea
+            dell : odell
+        denbeigh : denby
+         denholm : denham
+          dennis : 
+         desmond : desmon
+         dickson : dixon
+            dinh : 
+         dinning : dinnin
+            doan : 
+         doherty : docherty, dougherty, odoherty
+          dolman : dollman
+        donaghue : odonaghue, odonahoo, odonahue
+         donnell : odonnell
+         donohoe : donoghue
+         donovan : odonovan
+            dowd : odowd
+        driscoll : odriscill, odriscoll
+          dudley : dud, dudleigh
+            duff : duffy
+            duke : dukes
+           dwyer : odwyer
+
+           eames : ames, amies
+           elder : elde
+            elms : elemes
+           engle : engel, ingle
+         english : inglish, ingliss
+           eyres : ayers, ayres
+         ezekiel : zech, zeke
+
+         farrell : ofarrell
+        faulkner : falc, falcon, falconer, falk, falkiner, fawkner
+          finlay : findlay, findley
+         fitzner : pfitzner
+        flaherty : oflaherty
+        flanagan : oflanagan
+           flynn : oflynn
+            ford : forde
+         forster : foster
+         freeman : freedman
+          french : ffrench
+           frost : ffrost
+
+       gallagher : ogallagher
+            gara : ogara
+           gaven : gavin
+        geraghty : garretty, garrety, garrity
+         gillman : gilman
+          gordon : gordie, gordy
+          gorman : ogorman
+           gough : goff
+           gower : ogower
+           grady : ogrady
+
+              ha : 
+        hadleigh : hadley
+           hagan : ohagan
+          hallor : ohallor
+        halloran : ohalloran
+             han : ohan
+       hanaffian : ohanaffian
+         hancock : handcock
+           hanes : ohanes
+       hanessian : ohanessian
+          hanian : ohanian
+          hanley : hambley, hamley, handley
+          hanlon : ohanlon
+          hannes : ohannes
+      hannessian : ohannessian
+             har : ohar
+            hara : ohara, oharae
+            hare : ohaiher, ohaire, ohare, ohegir, ohehar, ohehier,
+                   ohehir, oheir
+         harford : hartford
+          harris : oharris
+            hart : ohart
+        hawkyard : halkyard
+           hayon : ohayon
+         hayward : haywood, heyward, heywood, howard, howie
+            hazy : ohazy
+             hea : ohea
+           hearn : ohearn
+              ho : 
+         hodgson : hodson
+          horton : hawtin, houghton
+           hough : hoff
+          hudson : housten, houston, huston
+          hughes : hewes
+        humphrey : humfrey, onofredo
+
+          irving : ervy, irvin, irvine
+           islay : isles
+
+         johnson : johnston, johnstone
+          junior : jnr
+           juris : yuris
+
+          kantor : cantor
+         karlsen : carlson
+        kavanagh : cavanagh, cavanough, cavenagh
+         kealley : keighley
+         kearney : carney, carnie, okearney
+           keefe : okeefe
+           keese : okeese
+            keil : okeil
+           keith : okeith
+             kel : okel
+         kennely : kennerley
+         kenneth : ken, keneth, kenethe, kenith, kennith, kenny
+           kirby : kirkby
+            klap : clap, clapp
+           kohen : coen, cohen, cohn
+          koster : costa, coster
+
+            laco : olaco
+        langford : langsford
+           laslo : laszlo
+        laughton : lawton
+              le : 
+           leach : leitch
+           leary : oleary
+          lennox : leannox
+           lisle : lyal, lydall, lyle
+           lloyd : floyd
+            loan : oloan
+         lachlan : loughlin, olachlan, olaughlan, ologhlin, oloughlan
+              ly : 
+           lynam : olynam
+          lyndon : lindon
+
+            mace : maze
+         maddock : maddocks
+           maher : maier, mayar, meagher, omeagher
+           mahon : mann
+          mahony : mahoney, omahoney, omahony
+             mai : 
+          malley : omalley, omally, omeley
+            mara : omara, omeara, omera
+           marsh : march
+          massey : massie
+        matheson : matherson
+           mavis : mab
+          mervyn : merv, mervin
+           meyer : myer
+           miles : myles
+       millicent : mildred
+          millie : milli, milly
+        mitchell : michaal, michaele, michaell, micheal,
+                   michell, mick, micky, mikcos, mike, mitch
+        montague : monty
+          mosley : morsley
+         mullane : omullane
+
+            nada : nadine
+           nains : onains
+#             nee : 
+          nevern : nevin
+         newbury : newby
+          nguyen : 
+          norton : naughton, naunton
+       nosworthy : norsworthy
+
+           ogden : oddie, oddy
+
+      panagiotis : panayotis
+       patterson : pattison
+          pearce : pearse
+           peter : peter
+          peters : peters
+          powers : powys
+     prendergast : pendergast
+           price : preiss
+       pritchard : prichard
+
+         quinton : quentin
+
+         raleigh : rawleigh, rawley, rowley
+          redman : redmond
+           reece : rees
+           regan : oregan
+          reilly : oreilly, orielly
+          reuben : rube, ruben
+         reynard : reyner
+        reynolds : reynol, reynold
+           roach : roache, roatch, roche
+       robertson : roberson, robieson, robinson
+            roer : ruggiero
+          rogers : rodgers
+          rourke : orourke
+          ruthen : ruthven
+
+         sampson : samson
+       sanderson : sandison
+        sandford : sanford
+         schultz : scholz, schulz, schulze, shultz, shultze
+        schwartz : schwarz
+          seaton : seton
+           shana : oshana, oshanna
+       shannessy : oshanassy, oshanesy, oshannessy, oshaughnessy
+            shea : oshae, oshea
+          sheehy : osheehy
+          sheils : shields, shiels
+           shell : schell
+         simmons : simmins, simmonds, simons, symanns, symonds
+        slavomir : slawomir
+         solomon : sol, saul
+           spiro : spiros
+       staughton : staunton
+         stbaker : saintbaker
+         stclair : saintclair, saintclaire, saintclare, stclaire, stclare
+         stcloud : saintcloud
+         stdenis : saintdenis, saintdennis, stdennis
+        stephens : stevens
+        stgeorge : saintgeorge
+          stjack : saintjack
+          stjohn : saintjohn
+      stjohnwood : saintjohnwood
+        stjulian : saintjulian
+      stlaurence : saintlaurence
+          stleon : saintleon
+        sullivan : osullivan
+
+        thompson : thomsen, thomson
+           toole : otoole
+            tran : 
+
+          vaughn : vaughan
+
+          warner : warnie
+          weiner : wiener, wierner
+          weston : western
+           white : wight
+        whiteman : whitmann, wightman
+         whitman : whit
+          wilmot : willmott
+       wiltshire : willshire
+         windsor : winsor
+
+           young : oyoung
+
+           zadie : zaidie
+        zbigneif : zbignev, zbignief, zbigniew
+         zdislaw : zdzislaw

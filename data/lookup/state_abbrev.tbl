@@ -1,0 +1,44 @@
+# =============================================================================
+# territory.tbl - Lookup-table for territory names
+#
+# Source: - NSW Health Department pattern and classification files
+#
+# Last update: 15/12/2005, Peter Christen
+# =============================================================================
+
+tag=<TR>  # Tag for territory words
+
+other territories : o/t, other territory, other terr
+
+       act : australian capital territory, a c t, australian capital t,
+             australian capital ter, australian capital terr,
+             australia capital t, australia capital ter, austr capit terr,
+             australia capital terr, australia c t, australian c terr,
+             australia capital territory, australia c ter, australia c terr,
+             australia c territory, australian c t, australian c ter,
+             austr capit ter, aus cap terr, aus cap ter, aust cap ter,
+             aust cap terr
+
+       nsw : new south wales, n s w, new s w, new south w, n south w,
+             n south wales, new south wa, n south wa, new s wa, n s wales,
+             new s wales
+
+        nt : northern territory, n t, n ter, n terr, n territory, north t,
+             north ter, north terr, north territory, northern t,
+             northern ter, northern terr, no t, no ter, no terr, no territory
+
+       qld : q l d, q land
+
+queensland : queen land, queens land, queenland
+
+        sa : south australia, s a, s australia, s australian, 
+             south australian, southern australia, southern australian
+
+       tas : 
+  tasmania :
+
+       vic : vi, vict
+  victoria :
+
+       wa  : western australia, w australia, w australian, west australian,
+             western australian, west australia

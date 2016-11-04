@@ -1,0 +1,25 @@
+# =============================================================================
+# suburb-lookup.tbl - Lookup-table for suburb used for
+#                     the database generator
+#
+# - The word left of the colon is the state, right of the colon is
+#   a list of (comma separated) suburbs 
+#
+# Last update: 23/07/2008, Agus Pudjijono
+# =============================================================================
+
+             ACT : 02,2,612
+                    
+             NSW : 02,2,612
+
+             NT  : 03,3,613
+
+             QLD : 03,3,613
+
+             SA  : 07,7,617
+
+             TAS : 07,7,617
+
+             VIC : 08,8,618
+
+             WA  : 08,8,618

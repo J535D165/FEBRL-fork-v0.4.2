@@ -1,0 +1,21 @@
+# =============================================================================
+# post_address.tbl - Lookup-table for postal address words
+#
+# Source: - NSW Health Department pattern and classification files
+#
+# Last update: 19/10/2007, Peter Christen
+# =============================================================================
+
+tag=<PA>  # Tag for postal address words
+
+             bag : lb, lmb, mailbag, lockedbag, mail bag, locked bag,
+                   locked mail bag
+        post box : pobox, postbox, post box, po box, post office box,
+                   p o box, p office box, pb
+   post mail box : post mail box, pmb
+            mail : m, ml
+     mailservice : ms, m s, mail service
+      mailcentre : mail centre, mc, m c
+             rmb : road mail box, r m b, roadside mail box, roadside mailbox, rsm box
+                   rms box
+     post office : po, postoffice, pst

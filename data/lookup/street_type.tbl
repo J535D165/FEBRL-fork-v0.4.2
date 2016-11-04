@@ -1,0 +1,352 @@
+# =============================================================================
+# wayfare_type.tbl - Lookup-table for wayfare type words
+#
+# Sources: - NSW Health Department pattern and classification files
+#          - US Postal Service Official Abbreviations
+#            http://www.usps.com/ncsc/lookups/usps_abbreviations.html
+#          - Address Component Abbreviations from AS.4590 - 1999
+#            (Australian Standard for Interchange of Client Information)
+#          - Added abbreviations from GNAF data dictionary
+#
+# Last update: 30/11/2005, Peter Christen
+# =============================================================================
+
+tag=<WT>  # Tag for wayfare type words
+
+# Wayfare type words
+          access : accs 
+           alley : aly, ally, allee
+        alleyway : alwy, allyway, allwy
+           amble : ambl
+       anchorage : ancg
+      apartments : apts, appartments
+        approach : app
+          arcade : arc
+            arch : 
+          artery : art
+          avenue : av, ave, ave, aven, avenu, avn, avnu, avnue, avenues
+
+            bank : 
+           basin : basn
+             bay : ba, baby, bat
+           beach : baech, bch, beech
+            belt : 
+            bend : bnd
+           block : blk
+           bluff : blf, bluf, bluffs
+       boardwalk : bwk, board walk
+       boulevard : bd, bde, blv, blvd, blvde, blvrd, boulavard,
+                   boul, boulv, bvd, boulevarde
+         bottoms : bottom, bot, bottm, btm, bttm, bttms, btms, bottms
+            bowl : 
+           brace : brce
+            brae : 
+           break : brk
+           brett : bret
+          bridge : brdg, brdge, brg, bdge
+        broadway : bdwy, brdway
+            brow : 
+            bull : 
+          bypass : bypa
+           byway : bywy
+
+        causeway : csway, cswy, causewy, caus, cause
+          centre : ctr
+       centreway : cnwy
+           chase : ch
+          circle : cir, circel
+         circlet : clt
+         circuit : crct, circ, cct, cirt
+          circus : crcs
+           claim : clm
+           close : cl, cls, clse
+         cluster : clr
+       colonnade : clde
+          common : cmmn
+         commons : cmmns
+         concord : cncd
+       concourse : con
+      connection : cntn
+       connector : conr
+           copse : cps
+          corner : cnr, crn, crnr
+          corseo : cseo
+           corso : cso
+          course : crse
+           court : crt, ct
+          courts : crts
+       courtyard : ctyd, court yard
+            cove : 
+        crescent : cr, cred, cres, crs, cresent, crecent
+           crest : crst
+           crief : crf
+           cross : crss
+        crossing : crsg
+       crossroad : crd, cross road
+        crossway : cowy, crwy
+       cruiseway : cuwy
+             cul :
+      cul de sac : cds
+         cutting : cttg
+
+            dale : 
+            dell : 
+       deviation : devn
+             dip : 
+     distributor : dstr
+          divide : div
+            dock : 
+          domain : dom
+            down : 
+           downs : dwns
+           drive : dr, drv, dv, dve
+        driveway : drwy, drvwy
+           drove : drov
+
+        easement : esmt
+            east : 
+            edge :
+           elbow : elb
+             elm : 
+             end : 
+        entrance : ent
+       esplanade : esp, espl
+          estate : est, ests, estates
+      expressway : exp, expwy
+       extension : extn
+
+         fairway : fawy
+            fall :
+            fare : 
+           farms : frms
+             fen : 
+            fern : 
+        fireline : flne, fire line
+       firetrack : ftrk, fire track
+       firetrail : fitr, fire trail
+            flat : 
+           flats : flts
+          follow : folw
+         footway : ftwy, foot way
+            ford : 
+       foreshore : fshr, fore shore
+       formation : form
+         freeway : frwy, fw, fwy
+           front : frnt
+        frontage : frtg
+
+             gap : 
+          garden : gdn, grd, grdn
+         gardens : gdns, grds, grdns
+            gate : gte
+           gates : gtes
+         gateway : gwy
+           glade : gld
+            glen : 
+          grange : gra
+           green : grn
+          ground : grnd
+           grove : gr, grve
+           gully : gly
+
+         harbour : habour, harbor
+           haven : hvn
+            head : 
+           heath : hth
+         heights : hts, heaights
+        highroad : hrd, high road
+         highway : hgwy, hw, hway, hwy, hi, hwye, hwyw
+            hill : 
+          hollow : hllw
+             hub : 
+
+           inlet : inlt
+     interchange : intg, inter change
+    intersection : intn, inter section
+          island : id
+
+        junction : jct, jnc, jnct, jtn, jubction, junct
+
+             key : 
+            keys : kys
+            knob : 
+           knoll : knol
+
+#              la : 
+          ladder : ladr
+          lagoon : lagn, lgn, lagon
+         landing : ldg
+            lane : ln, lne
+         laneway : lnwy
+             lea : 
+          leader : ledr
+            lees : 
+           leigh : lgh
+            line : 
+            link : 
+          little : lt
+         lookout : lkt, look out
+            loop :
+           loops : lps
+           lower : lwr
+           lynne : lynn
+
+            mall : 
+           manor : mnr
+            mart : 
+            mead : 
+         meander : mndr
+             mew : 
+            mews : mws
+            mile : 
+        motorway : mwy
+            motu : 
+           mount : mt
+
+          neaves : nvs
+            nook : 
+           north : nth
+            null : 
+
+            oaks : 
+          outlet : otlt
+         outlook : otlk
+            oval : 
+      overbridge : ovrb, over bridge
+
+         paddock : padk
+            paku : 
+           palms : plms
+          parade : pde, prd, pderd
+            park : pk, prk
+       parklands : pkld, parkland, park lands, park land
+         parkway : parkwy, pky, pkway, prkwy, prkway, pkw, pkwy
+            part : 
+            pass : 
+         passage : psge
+            path : pth
+         pathway : phwy
+       peninsula : psla
+         ph pors :
+          piazza : piaz
+           place : pl, pla
+         plateau : plat
+           plaza : plz, plza, pz
+          pocket : pkt, pokt, pckt
+           point : piont, pnt, pt
+            port : 
+          priors : prrs
+       promenade : prom
+         pursuit : prst
+
+            quad : 
+      quadrangle : qdgl
+        quadrant : qdrt
+            quay : quy, qy
+           quays : quys, qys
+
+          ramble : rmbl
+            ramp : 
+           ranae : ran
+           range : rnge
+           reach : rch
+            reef : 
+         reserve : res, resrv, resv, rsrv, rserv, rserve, rsrve
+            rest : 
+         retreat : rtt
+          return : rtn
+            ride : 
+           ridge : rdge
+        ridgeway : rgwy, ridge way
+    right of way : rowy, right, rightofway
+            ring : 
+            rise : 
+          rising : rsng
+           river : rvr
+        riverway : rvwy
+         riviera : rvra
+            road : raod, rd
+           roads : raods, rds
+        roadside : rdsd, road side
+         roadway : rdwy, rdw
+           ronde : rnde
+        rosebowl : rsbl, rose bowl
+          rotary : rty
+           round : rnd
+           route : rte
+             row : 
+             rua :
+             rue :
+             run : 
+
+      serviceway : swy
+           shore : shor
+          siding : sdng
+         skyline : skln
+           slope : slpe
+           sound : snd
+           south : sth
+             spa : 
+            spur : 
+          square : sq, sqr
+          stairs : strs
+   state highway : shwy, state, statehighway
+           steep : stp
+           steps : stps
+          straat : staa
+        straight : strt
+          strait : stai
+          strand : stra, strnd
+          street : st, str, stret, sty, sstreet
+         streets : sts, strets, sstreets
+           strip : strp
+          subway : sbwy
+
+            tarn : 
+         terrace : tce, terace, terrac, terrance, terrrace
+    thoroughfare : thor, throughfare, thorough fare
+     thoroughway : thwy
+      throughway : thru
+         tollway : tlwy
+             top : 
+             tor : 
+           tower : twr
+          towers : twrs
+           track : trk
+           trail : tr, trl
+         trailer : trlr
+            tram : 
+         tramway : tmwy
+           trees : trs
+        triangle : tri
+        trunkway : tkwy
+          tunnel : tunl
+            turn : 
+
+       underpass : upas, under pass
+           upper : upr
+
+            vale : 
+          valley : vlly
+           venus : vnus
+         viaduct : vdct, viadct
+            view : 
+           views : 
+         village : vlge
+          villas : vlls
+           vista : vsta
+             vue : 
+
+            wade : 
+            walk : wlk, walk
+         walkway : wkwy
+          waters : wtrs
+             way : wy
+            ways : wys
+            west :
+           wharf : whrf
+          whenua : whna
+           woods : wds
+            wynd : 
+
+            yard : yrd

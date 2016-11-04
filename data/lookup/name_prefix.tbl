@@ -1,0 +1,54 @@
+# =============================================================================
+# name_prefix.tbl - Lookup-table for name prefix words
+#
+# Source: - NSW Health Department pattern and classification files
+#
+# Last update: 30/07/2002, Peter Christen
+# =============================================================================
+
+tag=<PR>  # Tag for name prefix words
+
+             abu : 
+             adu : 
+              ah : 
+              al : 
+              au : 
+              da : 
+             dal : 
+              de : 
+             dei : 
+             del : 
+           della : dela, dlla
+           delle : dele, dlle
+           delli : deli, dlli
+             den : 
+             der : 
+             des : 
+              di : 
+             dos : 
+              du : 
+              el : 
+              ho : 
+              il : 
+              in : 
+              la : 
+              le : 
+              li : 
+              lo : 
+              mc : mac
+             san : 
+              te : 
+             ten : 
+             ter : 
+             thi : 
+              to : 
+             van : 
+           vande : 
+          vanden : 
+          vander : 
+            vant : 
+             ver : 
+             vom : 
+             von : 
+          vonden : 
+          vonder : 

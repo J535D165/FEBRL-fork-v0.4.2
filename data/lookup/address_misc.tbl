@@ -1,0 +1,13 @@
+# =============================================================================
+# address_misc.tbl - Lookup-table for various address characters and words
+#
+# Source:
+#
+# Last update: 29/11/2005, Peter Christen
+# =============================================================================
+
+tag=<SL>  # Tag for slash
+               / :
+
+tag=<HY>  # Tag for hyphen character
+               - :

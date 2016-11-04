@@ -1,0 +1,84 @@
+# ==============================================================================
+# flat_type.tbl - Lookup-table for flat (unit) type names
+#
+# Sources: - NSW Health Department pattern and classification files
+#          - US Postal Service Official Abbreviations
+#            http://www.usps.com/ncsc/lookups/usps_abbreviations.html
+#          - Address Component Abbreviations from AS.4590 - 1999
+#            (Australian Standard for Interchange of Client Information)
+#          - Added some abbreviations from GNAF G_FLAT_TYPE file
+# 
+# Last update: 15/10/2007, Peter Christen
+# ==============================================================================
+
+tag=<LO>  # Tag for word lot
+           lot : 
+
+tag=<FT>  # Tag
+
+         annex : anex, annx, anx, annexe, annex
+       antenna : antenna, ant
+     apartment : apartement, apartment, apt, aprt, appartement, appartment
+      barbeque : bbq, barbeque
+      basement : bsm, bsmt, basement, bsment
+         berth : berth, brth
+         block : block, blk, bl, blck
+      building : bdg, bldg, blg, building
+      bungalow : bongalow, bunglow, bungalow, bungalo, bngw
+         cabin : cabn, cabin
+          cage : cage
+       caravan : cvan, caravan
+       carpark : carpark, carp
+      carspace : carspace, cars
+          club : club
+       cottage : cottage, ctge
+    department : department, dept
+        duplex : dup, duplex
+     extension : ext, extension, extn
+       factory : fy, factory
+          farm : farm, frm
+          flat : flat, ft, flt
+        garage : garage, grge
+  ground floor : ground floor, gd
+          hall : hall
+        hangar : hangar, hngr
+         house : house, hous, hs, hse
+         kiosk : ksk, kiosk
+         lease : lease, lse
+         lobby : lbby, lobby
+      location : location, loc
+         lower : lower, lwr
+    maisonette : msnt, maisonette
+  marine berth : mb, marine berth
+           off : off
+        office : ofc, offc, office
+     penthouse : pths, ph, penthouse
+       portion : por, portion
+          rear : rear
+       reserve : rsve, reserve
+          room : rm, room
+       section : sec, section
+          shed : shd, shed
+          shop : shop, shp
+      showroom : showroom, shrm
+          sign : sign
+          site : site
+         space : space, spc
+         stall : stl, stll, sl, stall
+       station : station
+         store : store, stor
+   strata unit : strata unit, su
+        studio : stu, studio
+    substation : subs, substation
+         suite : ste, suite
+       tenancy : tenancy, tncy
+         tower : twr, tower
+     townhouse : townhouse, tnhs
+       trailer : trlr, trailer
+          unit : unit, un, unt
+           van : van
+         vault : vault, vlt
+         villa : villa, vlla, vl
+          ward : wrd, ward, wd
+     warehouse : warehouse, we, whs
+      workshop : workshop, wshp
